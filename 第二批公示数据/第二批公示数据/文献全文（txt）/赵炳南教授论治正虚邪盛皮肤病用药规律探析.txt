@@ -1,0 +1,162 @@
+赵炳南教授论治正虚邪盛皮肤病用药规律探析（期刊）北京中医药大学学报2017(12)
+赵炳南教授论治正虚邪盛皮肤病用药规律探析
+- 1 材料1.1 数据源的选取1.2 样本选取规则1.3 系统工具的选择
+- 1.1 数据源的选取
+- 1.2 样本选取规则
+- 1.3 系统工具的选择
+- 2 数据分析过程2.1 聚类变量与聚类成员的确定2.2 数据清洗2.3 生成样本空间2.4 计算相似性测度2.5 选择聚类方法进行聚类分析2.5.1 层次聚类2.5.2 迭代聚类
+- 2.1 聚类变量与聚类成员的确定
+- 2.2 数据清洗
+- 2.3 生成样本空间
+- 2.4 计算相似性测度
+- 2.5 选择聚类方法进行聚类分析2.5.1 层次聚类2.5.2 迭代聚类
+- 2.5.1 层次聚类
+- 2.5.2 迭代聚类
+- 3 结果
+- 4 讨论4.1 高频中药是赵炳南论治正虚邪盛皮肤病学术思想的重现4.2 聚类结果展示了赵炳南辨治的时序性、层次性及因果关系4.3 高频中药构成基本方展现组方对称性4.4 高频中药集群通过恢复机体免疫机能应对正虚邪盛皮肤病4.5 名老中医经验挖掘对于充实皮肤领域学术内涵意义重大
+- 4.1 高频中药是赵炳南论治正虚邪盛皮肤病学术思想的重现
+- 4.2 聚类结果展示了赵炳南辨治的时序性、层次性及因果关系
+- 4.3 高频中药构成基本方展现组方对称性
+- 4.4 高频中药集群通过恢复机体免疫机能应对正虚邪盛皮肤病
+- 4.5 名老中医经验挖掘对于充实皮肤领域学术内涵意义重大
+- 5 结语
+- 参考文献
+- 参考文献
+- 注释
+- [1]徐江雁, 韦大文.赵炳南先生治疗皮肤病的学术特点[J].中华中医药杂志, 2008, 23 (6) :481-483.XU JY, WEI DW, Academic characteristic of Zhao Bingnan in treating dermatogic diseases[J].China Journal of Traditional Chinese Medicine and Pharmacy.2008, 23 (6) :481-483.
+- [2]TSENG YH, LIN CJ, LIN YI.Text mining techniques for patent analysis[J].Information Processing&Management, 2007, 43 (5) :1216-1247.
+- [3]CHEN SM.New methods for subjective mental workload assessment and fuzzy risk analysis[J].Cybernetics&Systems, 1996, 27 (5) :449-472.
+- [4]BISWAL BN, DASH PK, MISHRA S.A hybrid ant colony optimization technique for power signal pattern classification[J].Expert Systems with Application, 2011, 38 (5) :6368-6375.
+- [5]LIAO L, ZHOU JZ, ZOU Q.Weighted fuzzy kernel-clustering algorithm with adaptive differential evolution and its application on flood classification[J].Natural Hazards, 2013, 69 (1) :279-293.
+- [6]宋乃光.赵炳南皮肤科学术渊源研究[J].北京中医药, 2009, 28 (6) :422-424.SONG NG.Academic origin of Zhao Bingnan TCM dermatology[J].Beijing Journal of Traditional Chinese Medicine, 2009, 28 (6) :422-424.
+- [7]耿学英, 宋乃光, 赵岩松, 等.赵炳南中医皮肤科整体观的渊源及特点[J].中华中医药学刊, 2010, 28 (4) :854-855.GENG XY, SONG NG, ZHAO YS, et al.Discussion on the origin and the feature of Zhao Bingnan’s holism concept in TCM dermatology[J].Chinese Archives of Traditional Chinese Medicine, 2010, 28 (4) :854-855.
+- [8]李敏, 张苍, 蔡念宁.赵炳南调和阴阳治疗慢性荨麻疹经验探析[J].中国中西医结合皮肤性病学杂志, 2009, 8 (6) :361-362.LI M, ZHANG C, CAI NN.Experience exploration of chronic urticarial by Zhao Bingnan applying the principle of regulating yin and yang[J].Chinese Journal of Dermatovenereology of Integrated Traditional and Western Medicine, 2009, 6 (8) :361-362.
+- [9]李伯华, 周冬梅, 张广中.浅谈赵炳南“首辨阴阳”学术思想对皮肤病湿证治疗的指导作用[J].中华中医药杂志, 2015, 30 (6) :1985-1987.LI BH, ZHOU DM, ZHANG GZ.Discussion on guiding role of“syndrome differentiation of yin and yang”academic idea of Zhao Bingnan in treatment of dermatosis with dampness syndrome[J].China Journal of Traditional Chinese Medicine and Pharmacy, 2015, 30 (6) :1985-1987.
+- [10]于杰, 孙忠人, 李洪玲, 等.对针刺与中医“正气”及现代免疫学的思考[J].中国医药导报, 2015, 12 (28) :77-80, 84.YU J, SUN ZR, LI HL, et al.Reflection on the discussion aiming at acupuncture, healthy qi of traditional Chinese medicine and modern immunology[J].China Medical Herald, 2015, 12 (28) :77-80, 84.
+- [11]方金苗, 杜武勋.中医气虚证实质研究概述[J].时珍国医国药, 2016, 27 (2) :430-432.FANG JM, DU WX.Overview on the substance of qi deficiency syndrome of traditional Chinese medicine theory[J].Lishizhen Medicine and Materia Medica Research, 2016, 27 (2) :430-432.
+- [12]王嫦鹤, 耿庆光, 王雨轩.白术内酯I对免疫性肝损伤的保护作用[J].中国中药杂志, 2012, 37 (12) :1809-1813.WANG CH, GENG QG, WANG YX.Protective effect of atractylenolide I on immunological liver injury[J].China Journal of Chinese Materia Medica, 2012, 37 (12) :1809-1813.
+- [13]丁喜炎, 季琳, 程雪, 等.不同硫熏替代技术的黄芪药材对小鼠免疫功能影响研究[J].中国中药杂志, 2016, 41 (15) :2819-2823.DING XY, JI L, CHENG X, et al.Effect of Astragali Radix with different sulfur fumigation technologies on immune function in mice[J].China Journal of Chinese Materia Medica, 2016, 41 (15) :2819-2823.
+- [14]樊长征, 洪巧瑜.党参对人体各系统作用的现代药理研究进展[J].中国医药导报, 2016, 13 (10) :39-43.FAN CZ, HONG QY.Study on modern pharmacological research development of Codonopsis Pilosula in human body system function[J].China Medical Herald, 2016, 13 (10) :39-43.
+- [15]杨宪勇.北沙参对免疫抑制C57BL/6J小鼠T淋巴细胞亚群影响的实验研究[J].泰山医学院学报, 2012, 33 (4) :247-249.YANG XY.The study on T lymphocyte subpopulation influence of Glehnia littoralis Schmidt on the C57BL/6J immunosuppressive mice[J].Journal of Taishan Medical College, 2012, 33 (4) :247-249.
+
+
+赵炳南教授论治正虚邪盛皮肤病用药规律探析
+- 杨旭杰，
+- 裴晓华，
+- 王春晖，
+- 沈慧
+- 河北中医学院，
+- 北京中医药大学第三附属医院
+摘要：目的 探求赵炳南教授论治正虚邪盛型皮肤病用药规律。方法 收集赵炳南论治皮肤病的临床医案, 筛选正虚邪盛型皮肤病处方353首, 运用层次、迭代两种聚类分析方法挖掘复方药物特点, 进而探讨其组方遣药规律。结果 353首复方涉及94种中药, 聚为2类, 第一类11种药物的用量、使用频次、君药比重占据明显优势。结论 名医经验挖掘获得的高频中药总共11味, 但是功效范围却涵盖了补气健脾、养血滋阴、升阳托毒、清热凉血、利水渗湿、排脓生肌、疏肝活血等诸多领域, 足见其整体调治路线以及辨治的时序性、层次性及因果关系, 名老中医经验挖掘对于充实皮肤领域学术内涵意义重大。
+
+基金：中国博士后基金资助项目(No.2016M600973);北京市哲学社会科学规划资助项目(No.17GLC062)~~
+
+关键词：赵炳南;用药规律;皮肤病;正虚邪盛;聚类分析
+
+作者简介：杨旭杰, 女, 博士, 副教授裴晓华, 男, 博士, 教授, 博士生导师, 主要研究方向:中医外科学, E-mail:medicalhistory@sina.com
+
+收稿日期：2017-05-22
+
+Cluster analysis of medicinals used by Prof. Zhao Bingnan in the treatment of skin disorders with the pattern of deficient healthy and excessive pathogenic qi
+- YANG Xujie,
+- PEI Xiaohua,
+- WANG Chunhui,
+- SHEN Hui
+- Hebei Traditional Chinese Medical College,
+- The Third Affiliated Hospital, Beijing University of Chinese Medicine
+Abstract：Objective To explore the feature of medicinals used by Prof. Zhao Bingnan in treating skin disorders with the pattern of deficient healthy qi and excessive pathogenic qi. Methods Medical records of Prof. Zhao's patients with skin disorders were collected and 363 prescriptions were selected as the pattern diagnosis was deficient healthy qi and excessive pathogenic qi, whose rule of herbal combination would be probed by means of cluster analysis ( Hierachical Cluster and K-means Cluster) . Results 363 prescriptions involving 94 Chinese herbs were clustered into two categories. The first category, as the major category with much higher dosage, frequency, monarch position in the formula, included eleven kinds of Chinese herbs. Conclusion Eleven kinds of Chinese herbs were frequently used in treating skin disorders of deficient healthy qi and excessive pathogenic qi, with the major effects of nourishing blood or yin, clearing heat and cooling blood, eliminating turbidity and etc. This demonstrates a holistic, comprehensive, sequenced and stepwise approach to treatment. Analyzing and summarizing aged famed TCM practitioners' experiences in the choice of Chinese medicinals would contribute to the enrichment of TCM dermatology.
+
+Funding：Chinese Postdoctoral Fund (No.2016M600973);Beijing Social Science Fund Project (No.17GLC062)
+
+Key words：ZHAO Bingnan;law of medicinal use;skin disorders;deficient healthy qi and excessive pathogenic qi;cluster analysis
+
+Received：2017-05-22
+
+皮肤疾病多缠绵日久, 耗伤正气, 因而正虚邪盛是皮肤病最常见的证型。赵炳南教授是中医外科大家, 其精湛的医术、高尚的医德获得了人们的敬重;他灵活掌握经旨, 注意疾病过程中的邪正关系, 正确运用扶正祛邪或攻守相兼的治疗法则[1];选药精当, 药少力专, 抓住主证, 遣药组方明确, 体现君臣佐使;对于正虚邪实皮肤病的辨治有独特疗法和经验方。本研究收集他论治正虚邪盛型皮肤病的所有复方, 在数据归类、清洗的基础上采用聚类分析方法探究其用药特点。
+
+1 材料
+1.1 数据源的选取
+本研究以北京中医医院收藏的赵炳南教授临床处方作为数据来源, 选取皮肤病正虚邪盛证型医案。
+
+1.2 样本选取规则
+以北京中医医院收藏的赵炳南教授论治皮肤病医案为文献源, 皮肤病涵盖热疮、癣、皮炎、疥疮、湿疮、风瘙痒、瘾疹、粉刺, 选取1960年11月至1972年12月门诊及住院患者353人, 其中初诊患者262人, 复诊患者91人 (当同一人分别作为初诊、复诊患者出现时, 分别计数) , 均以辨证为正虚邪盛型并且通过服用赵炳南教授的中药复方痊愈者为样本确认依据。
+
+1.3 系统工具的选择
+处方用药统计由手工完成, 双人核对, 并经Microsoft office Excel软件检验, 药物聚类分析由Spss Statistic软件完成。
+
+2 数据分析过程
+2.1 聚类变量与聚类成员的确定
+本研究设定3个聚类变量, 为“中药用量比”“使用频次”“配伍权重”, 聚类变量的设定标准见表1。聚类成员为正虚邪盛型皮肤病处方涉及的中药, 总共94味, 把各个中药划分为一系列有意义的子集, 从而达到清晰简化分析对象的目的[2]。
+
+表1 聚类变量设定标准Table 1 Criteria for clustered variables
+2.2 数据清洗
+即为数据规范, 通过相关性筛选, 符合条件的数据纳入分析数据集。
+
+2.3 生成样本空间
+清洗之后所得到的处方药物生成本研究的样本空间。
+
+2.4 计算相似性测度
+相似性测度即判断研究对象之间的亲疏程度, 根据计算出的亲疏程度对研究对象进行归类。[3]
+
+将94种中药作为94个案例, 把每个案例看作3维空间中的一个点, 在三维空间中定义点与点之间的距离, 距离越近的点, 相似程度越高, 聚类时更可能归为一类。公式为:
+
+其中, dij表示案例i和案例j之间的距离, xik表示第i个案例在第k个变量上的值。
+
+2.5 选择聚类方法进行聚类分析
+2.5.1 层次聚类
+首先把每个聚类成员看成一类, 先把距离最近的2类合并, 然后重新计算类与类之间的距离, 再把距离最近的2类合并, 每一步减少一类, 直到将52组案例归为一类。[4]聚类过程以树状图表示。
+
+2.5.2 迭代聚类
+将层次聚类的结果作为初始聚类中心, 进行迭代聚类, 以确保研究结果的可信度。[5]
+
+3 结果
+聚类结果见表2、表3、表4、表5、表6。医案中包含的94味中药聚为2类。
+
+从统计分析结果可知:第1类包含11种中药 (白芍、黄芪、白术、党参、丹参、秦艽、乌蛇、沙参、薏苡仁、鸡血藤、生地) , “中药用量比”“使用频次”“配伍权重”3个指标占据明显优势;其余的83种中药聚为第2类。
+
+高频中药虽然只有11味, 功效范围却涵盖了疏肝、养血、滋阴、补气、健脾、升阳、托毒、生肌、活血、凉血、祛风、清热、利水、除湿、排脓等诸多功能, 足见其祛邪扶正、攻补兼施的论治理念;第2类的83味中药则发挥辅助作用, 依照证型及体质的差异引导方药的整体趋向。
+
+第1类中药以绝对的优势成为正虚邪盛皮肤疾病论治的君药及臣药, 而第2类中药可以增强君药或臣药的效力, 或充当佐药和使药, 充分说明赵炳南组方遵循传统。组方廉验、药源充足的11味中药构建成为药精力专的方药框架, 成为体现传统经方治疗特色的基本方。
+
+研究结果中的两类中药经过赵炳南教授之弟子与再传弟子检验, 认为符合赵炳南论治正虚邪盛型皮肤疾病的组方特色。
+
+表2 参加聚类的中药 (%) Table 2 Clustering traditional Chinese medicinals (%)
+表3 迭代聚类结果Table 3 Iterative clustering results
+表4 最终聚类中心Table 4 Final clusters
+表5 每个聚类中的案例数Table 5 The number of cases in each cluster
+表6 方差分析Table 6 ANOVA
+4 讨论
+4.1 高频中药是赵炳南论治正虚邪盛皮肤病学术思想的重现
+赵炳南论治皮肤病的学术思想, 远宗《内经》, 近承明清[6], 汲取历代皮肤科精华, 融会贯通, 颇具创新, 形成了自己的风格, 在本研究结果中得到充分体现。第一, 遣药组方重视整体观念[7], 认为阴阳之平衡, 卫气营血之调和, 脏腑经络之通畅, 与皮肤病的发生及预后息息相关, 数据挖掘结果中的高频中药虽然只有11味, 但是功效范围涵盖了补气健脾、养血滋阴、升阳托毒、清热凉血、利水渗湿、排脓生肌、疏肝活血等诸多领域, 足见其整体调治路线。第二, 将首辨阴阳的学术思想作为辨治皮肤病的核心, 以调和阴阳、中和气血立论[8], 纠正皮肤病论治普遍存在的重视实证不重视虚证, 重阳证不重阴证的之误区[9]。第三, 首创两大辨证体系:气血及津液, 滋阴、养血药物的比例优势足以证实这一点;气血辨证体系彰显外科学术思想烙印, 《外科心法要诀》云:“痈疽原是火毒生, 经络阻隔气血凝”, 赵老由此派生解毒之道, 清解之中蕴养阴扶正;而津液辨证体系的确立是其在皮肤病论治中的开拓性创举, 即认识到津液输布异常是皮肤病区别于外科疾病的主要特点, 该认知促使其能够按照宏观体系设计皮肤疾病的方剂组合, 即遵循《本经》《本草纲目》《外科证治全生集》等古医籍的制方规矩。第四, 赵炳南将皮损用药定位在血分, 依照病位上下浅深酌情选取养血、活血及凉血药物。最后, 对于正虚邪实型皮肤病则反对苦寒直折、雄烈克伐, 提倡清营解毒、益气敛阴、凉血护心。
+
+4.2 聚类结果展示了赵炳南辨治的时序性、层次性及因果关系
+经云:“湿热相搏, 头面身体皆生疮”。湿与热相遇之始如同热油中撒入冷水, 呈现油滴、水滴四溅的急性爆发效应, 久之过渡为湿热相合的缠绵效应, 即为急性皮肤疾病向正虚邪盛的亚急性、慢性皮肤病演变过程;湿热内蕴日久形成了机体的体质因素, 极易引动风邪的骚扰, 湿热化火, 再搏于风, 三者相互激化, 风助火势, 火长风威, 如同火山激活后产生的巨大能量;随着空气污染日益加剧, “六淫之首”的风邪致病内涵拓宽, 风邪夹杂不洁之物侵袭肌表, 必然招致毒邪的入侵, 形成风毒;风湿热邪困扰日久, 影响中焦枢纽, 脾胃失和, 濡养功能减退, 加之外邪久羁, 阴血内耗, 夺津灼液则血枯而难荣于外;热郁血分, 燔灼阴津, 气血凝结, 筋脉阻滞, 形成血瘀。以上即为正虚邪盛皮肤病的形成过程。本研究结果中的高频中药包含清热、祛湿、凉血、解毒、祛风、补气、健脾、养血、滋阴等各个功效群, 通过调整高频中药群中的各个药物配比应对正虚邪盛皮肤疾病的不同阶段。
+
+4.3 高频中药构成基本方展现组方对称性
+对称的数学理论是由19世纪数学家首创, 后来成为描述自然界对称性的有力武器, 是物质世界本质和内在规律的体现, 依照对称性原理研究科学问题更趋合理。就复方而言, 对称性表现为其内部或复方之间相反或相似情况下不同形式再现的现象, 对称促成复方平衡, 平衡维持内部和谐稳定, 功效发挥至极。聚类结果中的高频中药组合蕴含着规律性的对应关系, 表现为方药配伍、功效、主治、作用取向同效共济或相反相成的制约促进。同类药物两两组合达到最佳疗效形成同类相须:黄芪、白术与党参健脾益气, 三者两两结合, 寄旺四时, 化生精微, 濡养肌肤;正虚邪盛皮肤病病程较久, 阴血内耗, 血枯难荣于外, 白芍配党参效专力补, 恢复亏蚀之阴血;风邪阻络是皮肤病常见诱因, 正气亏虚、邪气亢盛导致皮肤腠理疏松, 更易招致外风阻络, 乌蛇与秦艽均是祛风要药, 强强联合剔除络脉风毒。两组中药相辅承制增强疗效则构成异类相使, 如健脾益气的黄芪、白术、党参与滋阴补血的白芍相伍, 滋阴寓补气, 实现气血双补。相反相成体现复方的双向调节功用, 沙参、生地滋阴辅佐薏苡仁、白术利水, 防止滋腻太过, 呆滞脾胃;白芍配党参补血伍以鸡血藤、丹参活血, 以实现走守兼顾。如此组合彰显同效共济、多向促进、相反承制的方药搭配, 维持中药集群整体和谐稳定, 祛邪扶正并用, 恢复人体正常机能。
+
+4.4 高频中药集群通过恢复机体免疫机能应对正虚邪盛皮肤病
+免疫系统表达的功能是构成正气的重要因子[10], 邪气则是导致机体功能紊乱、内环境失衡的要素[11]。皮肤疾病是机体免疫机能异常的典型表现。赵炳南选用滋阴养血、补气健脾、凉血活血、清热除湿等中药对正虚邪盛皮肤病免疫功能的调整不是简单增强免疫力, 而是恢复机体自稳调节机制, 充分调动人体抗病能力, 维持内环境稳定。扶正是中医药免疫作用的体现, 通过调节垂体-肾上腺皮质系统而促进神经内分泌免疫网络联系, 亦可经过活化免疫细胞、改善骨髓造血功能等途径发挥免疫调节作用。白术、党参、黄芪可促进网状内皮系统和巨噬细胞的吞噬功能, 增加白细胞数量, 诱生干扰素[12-14];生地通过调整阴虚动物脾脏的核酸代谢紊乱而恢复免疫功能;沙参可激发T细胞、B细胞转化[15]而享有“免疫激发剂”之名。祛邪中药对机体免疫系统发挥双向调节作用, 纠正外邪所造成的机体免疫功能抑制或亢进, 本研究中清热、利水、托毒、祛风、排脓药物通过抑制肥大细胞脱颗粒及递质释放、诱导巨噬细胞吞噬抗原、提升中和抗体数量、改善微循环与毛细血管通透性、调节神经内分泌免疫网络联系等途径恢复机体内环境平衡。
+
+4.5 名老中医经验挖掘对于充实皮肤领域学术内涵意义重大
+中医学对于皮肤疾病的认知源远流长。《内经》最早提出了十二皮部是十二经功能活动的体表反应, 其整体性及思辨性形成了较为系统的病因、病机、诊疗理论, 为皮肤病学的发展确定了方向。《伤寒杂病论》对于肌肤的生理、病理作了深刻剖析, 指明致病因素作用于机体引起的病理变化可通过肌表反映。明清两代是中医皮肤科全盛和争鸣时期:《医宗金鉴》提出皮肤病与脏腑气血失调相关, 强调局部外治与整体内治结合, 治疗思路深受后人推崇;陈实功重视脾胃, 补益气血, 运用整体观治疗皮肤疾病达到了新的高度, 形成第一大外科学派;王氏《外科证治全生集》首创阴阳辨证体系, 完善了皮肤病阴证的论治;高氏《疡科心得集》汲取温病学说, 首创三部病机论及三陷变局论, 将中医皮肤科发展推向高潮。在前人学术成就感召下, 历代学者躬亲实践与探索, 逐渐形成了从整体出发、重视局部、内外治相结合的辨治观, 疗效独特且自成体系。在整体观念引导下, 阴阳辨证作为论治核心, 皮肤病的十大内治法则得以确立。当今学者理应运用一切科学手段和方法, 对于前辈的学术观点兼收并蓄, 取其所长, 为我所用, 让宝贵的学术经验发扬光大。本项研究就是通过对赵炳南学术资料的挖掘, 探明其论治正虚邪盛皮肤疾病独特的理论体系、灵活的辨证方法和规律的方药配伍, 达到博采名家之长, 鉴古知今为我用之目的。
+
+5 结语
+皮肤疾病是彰显中医药优势的病种, 而正虚邪盛是常见而复杂的证型, 邪正并存, 攻补两难, 困扰历代医家。赵炳南教授几十年来潜心钻研皮肤疾病的证治, 本研究所选复方是其多年临床经验的结晶, 在本领域具有无可替代的优势, 聚类分析结果成为赵炳南原创性思维的具体载体和皮肤科成药创新发展的宝贵资源。研究结果表明, 赵炳南论治正虚邪盛皮肤疾病遣药切中病机, 用药精当, 药少力专;组方遵循传统, 法度森严, 构成了独特的学术流派, 富有广博的学术内涵。
+
+参考文献
+- [1]徐江雁, 韦大文.赵炳南先生治疗皮肤病的学术特点[J].中华中医药杂志, 2008, 23 (6) :481-483.XU JY, WEI DW, Academic characteristic of Zhao Bingnan in treating dermatogic diseases[J].China Journal of Traditional Chinese Medicine and Pharmacy.2008, 23 (6) :481-483.
+- [2]TSENG YH, LIN CJ, LIN YI.Text mining techniques for patent analysis[J].Information Processing&Management, 2007, 43 (5) :1216-1247.
+- [3]CHEN SM.New methods for subjective mental workload assessment and fuzzy risk analysis[J].Cybernetics&Systems, 1996, 27 (5) :449-472.
+- [4]BISWAL BN, DASH PK, MISHRA S.A hybrid ant colony optimization technique for power signal pattern classification[J].Expert Systems with Application, 2011, 38 (5) :6368-6375.
+- [5]LIAO L, ZHOU JZ, ZOU Q.Weighted fuzzy kernel-clustering algorithm with adaptive differential evolution and its application on flood classification[J].Natural Hazards, 2013, 69 (1) :279-293.
+- [6]宋乃光.赵炳南皮肤科学术渊源研究[J].北京中医药, 2009, 28 (6) :422-424.SONG NG.Academic origin of Zhao Bingnan TCM dermatology[J].Beijing Journal of Traditional Chinese Medicine, 2009, 28 (6) :422-424.
+- [7]耿学英, 宋乃光, 赵岩松, 等.赵炳南中医皮肤科整体观的渊源及特点[J].中华中医药学刊, 2010, 28 (4) :854-855.GENG XY, SONG NG, ZHAO YS, et al.Discussion on the origin and the feature of Zhao Bingnan’s holism concept in TCM dermatology[J].Chinese Archives of Traditional Chinese Medicine, 2010, 28 (4) :854-855.
+- [8]李敏, 张苍, 蔡念宁.赵炳南调和阴阳治疗慢性荨麻疹经验探析[J].中国中西医结合皮肤性病学杂志, 2009, 8 (6) :361-362.LI M, ZHANG C, CAI NN.Experience exploration of chronic urticarial by Zhao Bingnan applying the principle of regulating yin and yang[J].Chinese Journal of Dermatovenereology of Integrated Traditional and Western Medicine, 2009, 6 (8) :361-362.
+- [9]李伯华, 周冬梅, 张广中.浅谈赵炳南“首辨阴阳”学术思想对皮肤病湿证治疗的指导作用[J].中华中医药杂志, 2015, 30 (6) :1985-1987.LI BH, ZHOU DM, ZHANG GZ.Discussion on guiding role of“syndrome differentiation of yin and yang”academic idea of Zhao Bingnan in treatment of dermatosis with dampness syndrome[J].China Journal of Traditional Chinese Medicine and Pharmacy, 2015, 30 (6) :1985-1987.
+- [10]于杰, 孙忠人, 李洪玲, 等.对针刺与中医“正气”及现代免疫学的思考[J].中国医药导报, 2015, 12 (28) :77-80, 84.YU J, SUN ZR, LI HL, et al.Reflection on the discussion aiming at acupuncture, healthy qi of traditional Chinese medicine and modern immunology[J].China Medical Herald, 2015, 12 (28) :77-80, 84.
+- [11]方金苗, 杜武勋.中医气虚证实质研究概述[J].时珍国医国药, 2016, 27 (2) :430-432.FANG JM, DU WX.Overview on the substance of qi deficiency syndrome of traditional Chinese medicine theory[J].Lishizhen Medicine and Materia Medica Research, 2016, 27 (2) :430-432.
+- [12]王嫦鹤, 耿庆光, 王雨轩.白术内酯I对免疫性肝损伤的保护作用[J].中国中药杂志, 2012, 37 (12) :1809-1813.WANG CH, GENG QG, WANG YX.Protective effect of atractylenolide I on immunological liver injury[J].China Journal of Chinese Materia Medica, 2012, 37 (12) :1809-1813.
+- [13]丁喜炎, 季琳, 程雪, 等.不同硫熏替代技术的黄芪药材对小鼠免疫功能影响研究[J].中国中药杂志, 2016, 41 (15) :2819-2823.DING XY, JI L, CHENG X, et al.Effect of Astragali Radix with different sulfur fumigation technologies on immune function in mice[J].China Journal of Chinese Materia Medica, 2016, 41 (15) :2819-2823.
+- [14]樊长征, 洪巧瑜.党参对人体各系统作用的现代药理研究进展[J].中国医药导报, 2016, 13 (10) :39-43.FAN CZ, HONG QY.Study on modern pharmacological research development of Codonopsis Pilosula in human body system function[J].China Medical Herald, 2016, 13 (10) :39-43.
+- [15]杨宪勇.北沙参对免疫抑制C57BL/6J小鼠T淋巴细胞亚群影响的实验研究[J].泰山医学院学报, 2012, 33 (4) :247-249.YANG XY.The study on T lymphocyte subpopulation influence of Glehnia littoralis Schmidt on the C57BL/6J immunosuppressive mice[J].Journal of Taishan Medical College, 2012, 33 (4) :247-249.

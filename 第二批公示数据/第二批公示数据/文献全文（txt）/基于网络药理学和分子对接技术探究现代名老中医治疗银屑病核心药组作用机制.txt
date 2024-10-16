@@ -1,0 +1,318 @@
+基于网络药理学和分子对接技术探究现代名老中医治疗银屑病核心药组作用机制（期刊）亚太传统医药2023(01)
+基于网络药理学和分子对接技术探究现代名老中医治疗银屑病核心药组作用机制
+- 1 获取核心药组1.1 资料1.1.1 资料来源1.1.2 纳入标准1.1.3 排除标准1.2 研究方法1.2.1 研究工具1.2.2 数据规范化处理及数据库建立1.2.3 数据分析1.3 结果1.3.1 中药频次1.3.2 中药关联规则
+- 1.1 资料1.1.1 资料来源1.1.2 纳入标准1.1.3 排除标准
+- 1.1.1 资料来源
+- 1.1.2 纳入标准
+- 1.1.3 排除标准
+- 1.2 研究方法1.2.1 研究工具1.2.2 数据规范化处理及数据库建立1.2.3 数据分析
+- 1.2.1 研究工具
+- 1.2.2 数据规范化处理及数据库建立
+- 1.2.3 数据分析
+- 1.3 结果1.3.1 中药频次1.3.2 中药关联规则
+- 1.3.1 中药频次
+- 1.3.2 中药关联规则
+- 2 分子机制研究2.1 资料与方法2.1.1 核心药组化学成分收集及靶点获取2.1.2 银屑病相关靶点基因获取2.1.3 核心药组与银屑病交集基因获取2.1.4 网络构建2.1.5 GO功能与KEGG通路富集分析2.1.6 分子对接2.2 结果2.2.1 核心药组化学成分收集及药物靶点获取2.2.2 银屑病相关靶点获取2.2.3 核心药组与银屑病交集基因获取2.2.4 网络构建2.2.5 GO功能与KEGG通路富集分析2.2.6 分子对接
+- 2.1 资料与方法2.1.1 核心药组化学成分收集及靶点获取2.1.2 银屑病相关靶点基因获取2.1.3 核心药组与银屑病交集基因获取2.1.4 网络构建2.1.5 GO功能与KEGG通路富集分析2.1.6 分子对接
+- 2.1.1 核心药组化学成分收集及靶点获取
+- 2.1.2 银屑病相关靶点基因获取
+- 2.1.3 核心药组与银屑病交集基因获取
+- 2.1.4 网络构建
+- 2.1.5 GO功能与KEGG通路富集分析
+- 2.1.6 分子对接
+- 2.2 结果2.2.1 核心药组化学成分收集及药物靶点获取2.2.2 银屑病相关靶点获取2.2.3 核心药组与银屑病交集基因获取2.2.4 网络构建2.2.5 GO功能与KEGG通路富集分析2.2.6 分子对接
+- 2.2.1 核心药组化学成分收集及药物靶点获取
+- 2.2.2 银屑病相关靶点获取
+- 2.2.3 核心药组与银屑病交集基因获取
+- 2.2.4 网络构建
+- 2.2.5 GO功能与KEGG通路富集分析
+- 2.2.6 分子对接
+- 3 讨论
+- 参考文献
+- 参考文献
+- 注释
+- [1]何清湖，秦国政．中医外科学[M].3版．北京：人民卫生出版社，2016．
+- [2]国家药典委员会．中华人民共和国药典[M]．北京：中国医药科技出版社，2015．
+- [3]RU J L,LI P,WANG J N,et al.TCMSP:a database of systems pharmacology for drug discovery from herbal medicines[J].J.Cheminformatics,2014,6(1):13．
+- [4]XUE R C,FANG Z,ZHANG M X,et al.TCMID:traditional Chinese medicine integrative database for herb molecular mechanism analysis.[J].Nucleic Acids Research,2013,41(Database issue):D1089-D1895．
+- [5]冯亚莉，李浩，刘娟，等．槲皮素研究进展[J]．中国中药杂志，2021,46(20):5185-5193．
+- [6]雷晓青，陈鳌，刘毅，等．山柰酚药理作用的研究进展[J]．微量元素与健康研究，2017,34(2):61-62．
+- [7]房城，于兴博，郑秀茜，等．黄芩的化学成分及药理作用研究进展[J]．化学工程师，2021,35(3):52-54．
+- [8]中华医学会皮肤性病学分会银屑病专业委员会．中国银屑病诊疗指南（2018完整版）[J]．中华皮肤科杂志，2019,52(10):667-710．
+- [9]孙亚琪．以STAT 3为靶点的银屑病抗炎治疗实验研究[D]．南京：南京医科大学，2017．
+- [10]郭晓瑞，李红文，郑乃刚，等．槲皮素下调人角质形成细胞内NF-κB和IL-6表达的表观遗传学修饰效应[J]．中国皮肤性病学杂志，2013,27(10):977-981．
+- [11]LIU C,LIU H,LU C,et al.Kaempferol attenuates imiquimodinduced psoriatic skin inflammation in a mouse model[J].Clin Exp Immunol,2019,198(3):403-415．
+- [12]沈晓庆，王晶，李婷君．汉黄芩素对胶原诱导性关节炎大鼠的治疗作用及对NLRP3炎症小体的影响[J]．中医药导报，2021,27(8):26-30．
+- [13]许鹏飞，陈渊锦，王丽苹，等．黄芩素有效抑制小鼠肺炎球菌性肺炎感染引起的炎症[J]．药物生物技术，2021,28(4):336-341．
+- [14]HUANG K F,MA K H,LIU P S,et al.Baicalein increases keratin 1and 10expression in HaCaT keratinocytes via TRPV4receptor activation[J].Exp Dermatol,2016,25(8):623-629．
+- [15]MEHTA A K,GRACIAS D T,CROFT M.TNF activity and Tcells[J].Cytokine,2018,101:14-18．
+- [16]FURUE K,ITO T,TSUJI G,et al.Psoriasis and the TNF/IL-23/IL17axis[J].G Ital Dermatol Venereol,2019,154(4):418-424．
+- [17]乔菊，高祎濛，李峰，等．银屑病患者外周血TNF-α、IL-17A、IL-23、IL-36γ表达水平及临床意义[J]．中国皮肤性病学杂志，2019,33(3):280-284．
+- [18]CHIMA M,LEBWOHL M.TNF inhibitors for psoriasis[J].Semin Cutan Med Surg,2018,37(3):134-142．
+- [19]HIRANO T.IL-6in inflammation,autoimmunity and cancer[J].Int Immunol,2021,33(3):127-148．
+- [20]NADEEM A,AHMAD S F,AL-HARBI N O,et al.GPR43activation enhances psoriasis-like inflammation through epidermal upregulation of IL-6and dual oxidase 2signaling in a murine model[J].Cell Signal,2017,33:59-68．
+- [21]LEE W R,LIN Y K,ALALAIWE A,et al.Fractional laser-mediated siRNA delivery for mitigating psoriasis-like lesions via IL-6silencing[J].Mol Ther Nucleic Acids,2020,19:240-251．
+- [22]NAMBI G.Does low level laser therapy has effects on inflammatory biomarkers IL-1β,IL-6,TNF-α,and MMP-13in osteoarthritis of rat models-a systemic review and meta-analysis[J].Lasers Med Sci,2021,36(3):475-484．
+- [23]赵辨．中国临床皮肤病学（下）[M].2版．南京：江苏科学技术出版社，2017:1104-1108．
+- [24]VAENGEBJERG S,SKOV L,EGEBERG A,et al.Prevalence,incidence,and risk of cancer in patients with psoriasis and psoriatic arthritis:a systematic review and meta-analysis[J].JAMADermatol,2020,156(4):421-429．
+- [25]TRAFFORD A M,PARISI R,KONTOPANTELIS E,et al.Association of psoriasis with the risk of developing or dying of cancer:a systematic review and meta-analysis[J].JAMA Dermatol,2019,155(12):1390-1403．
+- [26]JACOB L,KOSTEV K.Psoriasis risk in patients with type 2diabetes in German primary care practices[J].Prim Care Diabetes,2017,11(1):52-56．
+- [27]刘聪颖，潘俊宏，毛逸伦，等．银屑病合并2型糖尿病的研究进展[J]．重庆医科大学学报，2022,47(4):484-488．
+- [28]汤子珍，王文峰，王奕然，等．治未病思想在AGE-RAGE信号通路介导的糖尿病性视网膜病变防治中的应用[J]．中国民间疗法，2021,29(10):6-8．
+- [29]杨超茅，杨志新，马晓玲．AGEs-RAGE信号通路在糖尿病肾病中的作用机制及中医药研究进展[J]．中医学报，2019,34(9):1864-1868．
+- [30]王丽，李杰辉．AGEs-RAGE信号通路与糖尿病难愈合创面[J]．中国烧伤创疡杂志，2015,27(6):406-409．
+- [31]NOWOWIEJSKA J,BARAN A,FLISIAK I.Aberrations in lipid expression and metabolism in psoriasis[J].Int J Mol Sci,2021,22(12):6561．
+- [32]TRONG H N,TAT T N,ANH T T N,et al.Efficacy of adding oral simvastatin to topical therapy for treatment of psoriasis:the vietnamese experience[J].Open Access Maced J Med Sci,2019,7(2):237-242．
+- [33]SHIH C M,CHEN C C,CHU C K,et al.The roles of lipoprotein in psoriasis[J].Int J Mol Sci,2020,2:859.
+
+
+基于网络药理学和分子对接技术探究现代名老中医治疗银屑病核心药组作用机制
+- 黄俊，
+- 焦思敏，
+- 曾洁，
+- 蒋力，
+- 向丽萍，
+- 王畅
+- 湖南中医药大学，
+- 湖南中医药大学第二附属医院
+摘要：目的:探究现代名老中医治疗银屑病的核心药组及其治疗银屑病的分子机制。方法:通过中医传承计算平台(TCMISS V3.0)中的频数统计及关联规则功能对《当代中医皮肤科临床家丛书》中31位现代名老中医治疗银屑病常用方剂进行数据挖掘得到核心药组，使用TCMSP和TCMID数据库搜集核心药组的化合物成分及其作用靶点，使用Drugbank、Disgenet、Genecards数据库获取银屑病靶点，取交集靶点使用STRING数据库与Cytoscape构建“核心药组-中药-化合物-靶点-银屑病”网络及PPI蛋白互作分析，使用Metascape数据库进行GO功能和KEGG通路富集分析，使用AutoDockTools将重要化合物与核心靶点进行分子对接。结果:(1)得到由地黄、赤芍、牡丹皮、甘草、土茯苓组成的核心药组；(2)得到核心药组活性化合物184个，主要成分包括槲皮素、山柰酚、黄芩素等；(3)获得核心药组靶点236个，银屑病靶点1 011个，交集靶点100个，核心靶点为TNF、IL-6、IL-1β、TP53、JUN等；(4)GO分析结果主要包括对外来刺激的反应、对激素的反应、对无机物的反应、对细胞迁移的正向调控、对细胞运动的正向调控等生物过程；KEGG分析结果主要包括癌症通路、脂质和动脉粥样硬化、糖尿病并发症中的AGE-RAGE信号通路等；(5)分子对接结果显示槲皮素、山柰酚、黄芩素与TNF、IL-6、IL-1β有较好的结合活性。结论:现代名老中医治疗银屑病核心药组由地黄、赤芍、牡丹皮、甘草、土茯苓构成，具有清热养阴活血的功效，该药组所含的槲皮素、山柰酚、黄芩素等活性化合物可通过TNF、IL-6、IL-1β等靶标干预银屑病免疫反应及细胞增殖等发挥治疗作用。
+
+基金：湖南省中医药管理局中医药科研计划(2021092)
+
+关键词：银屑病;中药;名老中医;网络药理学;数据挖掘
+
+作者简介：黄俊(1996-),女，湖南中医药大学硕士研究生，医师，研究方向为皮肤与性病学。E-mail:834004243@qq.com*王畅(1984-),男，湖南中医药大学第二附属医院副主任医师，副教授，硕士生导师，研究方向为皮肤与性病学。E-mail:skinwch@vip.163.com
+
+收稿日期：2022-03-14
+
+Explore the Mechanism of Core Drug Group of Modern Famous and Old Doctor of Traditional Chinese Medicine in the Treatment of Psoriasis Based on Network Pharmacology and Molecular Docking Technology
+- Huang Jun,
+- Jiao Simin,
+- Zeng Jie,
+- Jiang Li,
+- Xiang Liping,
+- Wang Chang
+- Hunan University of Chinese Medicine,
+- The Second Hospital Affiliated to Hunan University of Chinese Medicine
+Abstract：Objective:To explore the core medicine group of modern famous and old doctor of traditional Chinese medicine in the treatment of psoriasis and its molecular mechanism.Methods:Through the functions of frequency statistics and association rules in TCMISS V3.0,data mining was carried out on 31 modern famous and old doctors of TCM prescriptions commonly used in the treatment of psoriasis in A Series of Contemporary Dermatologists of Traditional Chinese Medicine to obtain the core medicine group.TCMSP and TCMID database were used to collect the compound and action targets of the core medicine group, Drugbank, Disgenet and Genecards database were used to collect the psoriasis targets, and taken the intersection targets.The “core drug group-traditional Chinese Medicine-compound-target-psoriasis” network and PPI analysis were constructed by STRING and Cytoscape.The GO function and KEGG pathway enrichment analysis were carried out by Metascape database, molecular docking of the important compounds and the core targets by AutoDockTools.Results:The core drug group composed of Di huang, Chi shao, Mu danpi, Gan cao and Tu fuling was obtained; 184 active compounds of the core drug group were obtained, including quercetin, kaempferol, baicalein and so on; 236 core drug targets, 1 011 psoriasis targets and 100 intersection targets were obtained.The core targets were TNF,IL-6,IL-1β,TP53,JUN,etc; Go analysis results mainly include biological processes such as response to xenobiotic stimulus, response to hormone, response to inorganic substance, positive regulation of cell migration, positive regulation of cell motility; The results of KEGG analysis included such as pathways in cancer, lipid and atherosclerosis, AGE-RAGE signaling pathway in diabetic complications, fluid shear stress and atherosclerosis, chemical carcinogenesis-receptor activation.Molecular docking results showed that quercetin, kaempferol, and baicalein had good binding activities with TNF,IL-6 and IL-1β.Conclusion:The core medicine group of modern famous and old doctor of traditional Chinese medicine for the treatment of psoriasis is composed of Di huang, Chi shao, Mu danpi, Gan cao and Tu fuling.It has the effect of clearing heat, nourishing yin and activating blood circulation.The active compounds such as quercetin, kaempferol, and baicalein contained in this medicine group can intervene the immune response and cell proliferation of psoriasis through targets such as TNF,IL-6 and IL-1β.
+
+Key words：Psoriasis;Traditional Chinese Medicine;Modern Famous and Old Doctor of Traditional Chinese Medicine;Network Pharmacology;Data Mining
+
+Received：2022-03-14
+
+开放科学（资源服务）标识码（OSID)
+银屑病是一种常见的慢性复发性炎症性皮肤病，病程长，易反复发作，严重影响患者的生活质量。目前，银屑病的发病机制仍未明确，西医治疗主要以缓解临床症状，提高患者生活质量为目的，存在副作用大、病情易反复及治疗费用昂贵等不足。中医治疗银屑病疗效显著，为充分发掘中医治疗银屑病经验，本研究通过中医传承计算平台(TCMISS V3.0)对《当代中医皮肤科临床家丛书》中31位现代名老中医治疗银屑病常用方剂进行数据挖掘，并使用网络药理学及分子对接技术，分析所得核心药组，探索现代名老中医治疗银屑病核心药组的分子机制，为中医治疗银屑病提供参考。
+
+1 获取核心药组
+1.1 资料
+1.1.1 资料来源
+《当代中医皮肤科临床家丛书》中记载的31位现代名老中医临床常用于治疗银屑病的方剂。共涉及方剂215首，包括经方、时方及名家自拟方。
+
+1.1.2 纳入标准
+①适用疾病符合《中医外科学》[1]中白庀(银屑病)的诊断标准；②药物组成明确、完整；③剂型为内服汤剂；④临证加减方只录入主方。
+
+1.1.3 排除标准
+①适用疾病范围不明确；②需配合其他治疗手段；③由单味中药构成；④治疗效果不佳；⑤同一医家重复出现的方剂。
+
+1.2 研究方法
+1.2.1 研究工具
+中医传承计算平台(TCMISS V3.0),由中国中医科学院中药研究所提供。
+
+1.2.2 数据规范化处理及数据库建立
+根据《中医外科学》统一疾病名称，将符合白庀诊断的牛皮癣等疾病名称统一为白庀。根据2015年版《中华人民共和国药典》[2]统一中药名称，如银花、双花统一改为金银花，生苡/薏米、薏/苡仁、米仁统一改为薏苡仁，红藤改为大血藤等。将方剂中的合方及药物组合拆分为具体药物，如六一散拆分为滑石、甘草，乳没拆分为乳香、没药，银翘拆分为金银花、连翘等。将处理好的数据录入Excel后上传至中医传承计算平台，建立数据库。数据由两人分别录入，再互相查对审核，确保数据准确可靠。
+
+1.2.3 数据分析
+①利用TCMISS V3.0的频数统计功能，统计方剂中药物的使用频次；②利用TCMISS V3.0的药物关联规则功能，通过设置合理的支持个数与置信度得到药物关联度及药物组合，综合分析得到核心药组。
+
+1.3 结果
+1.3.1 中药频次
+收集的方剂共涉及中药257味。中药使用频次为2 267次，>20次的有30味中药，其中前10位是地黄、当归、甘草、牡丹皮、赤芍、土茯苓、丹参、黄芩、防风、白芍，见表1。
+
+1.3.2 中药关联规则
+根据收集方剂的数量，结合经验判断及不同参数提取数据的预读，将支持度个数(方剂中中药组合出现的频次)设为24,将置信度(当A药物出现时B药物出现的概率)设为0.5,得到药物组合23个，共涉及中药18味，见表2,得到18条关联规则，见表3,并得到以地黄为核心的网络拓扑图，见图1。通过综合分析药物使用频次、药物关联性、药物组合支持个数及关联规则网络拓扑图，得到以地黄为核心，由地黄、赤芍、牡丹皮、甘草、土茯苓组成的现代名老中医治疗银屑病常用核心药组。
+
+2 分子机制研究
+2.1 资料与方法
+2.1.1 核心药组化学成分收集及靶点获取
+将核心组方中的赤芍、牡丹皮、甘草、土茯苓输入TC-MSP(https: //old.tcmsp-e.com/tcmsp.php)数据库[3],收集所有化合物成分，然后根据药代动力学参数，以口服生物利用度(Oral bioavailability, OB)≥30%、类药性指数(Drug-likeness, DL)≥0.18为标准，筛选符合条件的化合物。本研究收集的处方中地黄多指生地黄，而TCMSP数据库尚未收录生地黄，因此自TCMID(http: //www.megabionet.org/tcmid/)数据库[4]中收集生地黄的化合物成分。利用TCMSP获取化合物成分的相关靶点，并利用UniProt(https: //www.uniprot.org/)数据库，将其转换为标准的基因名称。
+
+图1 中药关联规则网络拓扑图
+2.1.2 银屑病相关靶点基因获取
+以“Psoriasis”为关键词，种属选择“Homo sapiens”,利用Drugbank(https: //go.drugbank.com/)、Disgenet(https: //www.disgenet.org/)、Genecards(https: //www.genecards.org/)3个数据库筛选出银屑病相关靶点并去重。
+
+2.1.3 核心药组与银屑病交集基因获取
+利用Venny 2.1对“1.1”与“1.2”中获得的药物靶点与疾病靶点进行分析，得到交集基因靶点，并输出Venny图展示。
+
+2.1.4 网络构建
+利用Cytoscape 3.7.1进行“核心药组-中药-化合物-靶点-银屑病”网络构建，并根据化合物度(Degree)的大小得到重要化合物。将交集靶点导入在线工具STRING(https: //cn.string-db.org/)数据库，物种设置为“Homo sapiens”,最低互作分数设置为0.4,其他参数设为默认值，构建蛋白互作(PPI)网络，将结果导入Cytoscape 3.7.1中，利用CytoNCA插件根据度(Degree)的大小筛选核心靶点，并将网络可视化。
+
+2.1.5 GO功能与KEGG通路富集分析
+将交集靶点导入Metascape(https: //metascape.org/)数据库，设定物种为“H.sapiens”,对交集靶点进行GO功能和KEGG通路富集分析，通过微生信(http: //www.bioinformatics.com.cn/)得到富集气泡图。
+
+2.1.6 分子对接
+利用ChemOffice寻找并构建重要化合物的最优构象，从PDB(https: //www.rcsb.org/)数据库中下载核心靶点的三维结构，以*.pdb格式保存。利用AutoDockTools对大分子(受体)去水、加氢、定义原子类型，对小分子(配体)加氢、加电荷、定义原子类型，保存为*.pdbqt格式。最后运行AutoDockTools对重要化合物和核心靶点蛋白分别进行对接，保存最低结合能数据作为分子对接结果。若结合能<0,说明配体与受体之间可以自发结合，由于目前对于活性分子靶点的筛选尚无统一标准，本研究选取结合能≤-5.0 kJ/mol的化合物分子，作为核心药组治疗银屑病靶点的筛选依据。最后通过Pymol处理对接后的蛋白结构实现可视化。
+
+2.2 结果
+2.2.1 核心药组化学成分收集及药物靶点获取
+以DL≥0.18,OB≥30%为前置条件，通过TCMSP数据库得到活性化合物，甘草93个、土茯苓15个、牡丹皮11个、赤芍29个；通过TCMID数据库得到生地黄活性化合物49个，去重后共得到活性化合物184个。通过TCMSP数据库及UniProt数据库最终得到活性靶点，甘草206个、土茯苓184、牡丹皮154个、赤芍87个、生地黄47个，去重后共得到靶点236个。
+
+2.2.2 银屑病相关靶点获取
+通过DrugBank、Disgenet、GeneCards数据库分别得到银屑病相关靶点58个、317个、782个，去重后共得到靶点1 011个。
+
+2.2.3 核心药组与银屑病交集基因获取
+利用Venny2.1分析所获药物靶点与疾病靶点，取交集靶点，得到100个共同靶点及Venny图，见图2。
+
+图2 核心药组-银屑病交集基因Venny图
+注：左边代表核心药组全部中药靶点；右边代表疾病靶点；中间部分为两者交集靶点。
+
+2.2.4 网络构建
+利用Cytoscape 3.7.1构建“核心药组-中药-化合物-靶点-银屑病”可视化网络，该网络包含291个节点、941条边，成分节点大小与Degree值成正比，得到重要化合物槲皮素(71)、山柰酚(21)、黄芩素(17)、2-7-甲氧基甲基异黄酮(14)、β-谷甾醇(14)等。“核心药组-中药-化合物-靶点-银屑病”网络见图3。应用STRING数据库及Cytoscape 3.7.1构建化合物与疾病交集靶点的蛋白质互作(PPI)网络，该网络包含100个节点、1 761条边，成分节点大小及颜色深度与Degree值成正比，得到核心靶点TNF、IL6、IL1B、TP53、JUN等。PPI网络见图4。
+
+2.2.5 GO功能与KEGG通路富集分析
+经Metascape数据库富集分析，获得GO条目总计1 682条(P<0.01),主要包括对外来刺激的反应、对激素的反应、对无机物的反应、对细胞迁移的正向调控、对细胞运动的正向调控等1 510条生物过程(BP);膜筏、膜微区、转录调节因子复合物、RNA聚合酶II转录调控复合物、小凹(腔)等57条细胞成分(CC);转录因子结合、转录协同调节因子结合、DNA结合转录因子结合、细胞因子活性、RNA聚合酶II特异性DNA结合转录因子结合等115条分子功能(MF),根据-log10(Pvalue)值大小分别取前10条绘制GO富集分析气泡图。获得KEGG通路共184条，主要包括癌症通路、脂质和动脉粥样硬化、糖尿病并发症中的AGE-RAGE信号通路、流体剪切力和动脉粥样硬化、化学致癌-受体激活、化学致癌作用与活性氧、IL-17信号通路、Th17细胞分化、乙型肝炎、TNF信号通路等通路，根据-log10(Pvalue)值大小取前20条绘制KEGG通路富集分析气泡图。气泡图见图5。
+
+图3 核心药组-中药-化合物-靶点-银屑病网络
+注：菱形代表核心药组；三角形表示银屑病；六边形表示中药；圆形代表化合物；正方形表示共同靶点。
+
+2.2.6 分子对接
+将筛选得到的部分核心靶点(TNF、IL6、IL-1β)与重要化合物(槲皮素、山柰酚、黄芩素)进行分子对接。一般认为，结合能≤-5.0 kJ/mol的化合物与靶点具有较好的结合活性，结果显示，槲皮素与IL-1β,山柰酚、黄芩素与TNF、IL-6、IL-1β结合有较好的结合活性，见表4、图6。
+
+3 讨论
+中医学称银屑病为“白庀”,体现了银屑病肤如疹疥、搔之脱屑、色白而痒的特点，现代中医治疗银屑病多从“血分”入手，予清热凉血、活血化瘀、滋阴养血。基于中医学理论体系的特点，各医家对银屑病治疗皆有各自独到的体会，选方用药各有侧重。因此，本研究通过中医传承计算平台对《当代中医皮肤科临床家丛书》中31位现代名老中医治疗银屑病常用方剂进行数据挖掘，寻找治疗银屑病的用药共性，得到核心药组，并对其进行了网络药理学分析。
+
+本研究对215首处方进行数据挖掘得到由地黄、赤芍、牡丹皮、甘草、土茯苓构成的核心药组。其中，地黄多指生地黄，其味甘，性寒，归心、肝、肾经，具有清热凉血、养阴生津的作用，李杲曾言：“生地黄，治手足心热及心热，能益肾水而治血”,强调了生地黄对于阴虚血热的治疗作用。赤芍味苦，性微寒，归肝经，《本草纲目》曰：“赤芍药散邪，能行血中之滞”,牡丹皮味苦、辛，性微寒，归心、肝、肾经，两者除能清热凉血外，均具有较强的活血化瘀作用。土茯苓味甘、淡，性平，归肝、胃经，可清热、解毒、除湿，《本草正义》曰：“土茯苓，利湿去热，能入络，搜剔湿热之蕴毒。”甘草味甘，性平，归心、肺、脾、胃经，能补脾益气，清热解毒，调和诸药。该组合中地黄为君药，奠定了该方清热养阴的主要治疗方向，牡丹皮与赤芍为臣药，增强清热凉血作用且活血化瘀，土茯苓为佐药，加强清热解毒作用，并佐以除湿，甘草为使药，调和诸药，以合力驱邪。该核心药组药性以寒为主，甘苦相配，诸药主入心、肝两经，共奏清热、养阴、活血之效。
+
+图4 蛋白质互作网络
+注：Degree值越高则圆圈颜色越深，面积越大。越靠近中心关键性越高。
+
+图5 GO与KEGG富集气泡图
+注：A纵坐标表示GO富集条目(BP、CC、MF),B纵坐标表示KEGG富集通路，横坐标表示富集分数，气泡大小表示该条目的基因数目，颜色越深表示P值越小。
+
+图6 核心化合物及重要靶点蛋白分子对接
+注：A、B、C:分别为IL-1β和槲皮素、山奈酚、黄芩素的对接模式图；D、E:分别为TNF和山柰酚、黄芩素的对接模式图；F、G:分别为IL-6和山柰酚、黄芩素的对接模式图；TNF:肿瘤坏死因子；IL-6:白细胞介素-6;IL-1β:白细胞介素-1β。
+
+对核心药组进行网络药理学分析得到活性化合物184个，其中，槲皮素、山柰酚、黄芩素等是核心药组治疗银屑病的重要成分。槲皮素、山柰酚、黄芩素是广泛存在于自然界的黄酮类化合物，具有抗肿瘤、抗氧化、抗炎、调节免疫、降血糖、保护血管等多种药理作用[5-7]。银屑病主要与各种因素导致的角质形成细胞过度增殖相关[8],槲皮素可有效抑制皮肤角质形成细胞中IL-6及IL-22刺激引起的STAT3活化，有效缓解银屑病小鼠模型皮损状况[9],下调角质形成细胞的异常增殖和炎症[10]。山柰酚可降低银屑病皮肤病变中CD3+T细胞浸润及IL-6、IL-17A、TNF-α等促炎细胞因子表达，降低银屑病小鼠脾脏和淋巴结中IL-17A+/CD4+T细胞的百分比[11]。黄芩素可以降低炎症模型小鼠中淋巴细胞和中性粒细胞比例，减少血清中IL-1β、IL-18、IL-8、IL-6、TNF-α等含量，下调NF-κB、p38 MAPK、NRLP3、pro-Caspase-1及Caspase-1等表达水平[12-13],还可通过激活TRPV4受体增加角质形成细胞中角蛋白1和10的表达，增加角质形成细胞的分化并减少增殖[14]。由结合分子对接结果可知，槲皮素、山柰酚、黄芩素与TNF、IL-6、IL-1β有较好的结合力，可靶向调控银屑病发展进程。综上，可推测，槲皮素、山柰酚、黄芩素等成分可通过抗炎、调节免疫、抑制角质形成细胞过度增殖，发挥治疗银屑病的作用。
+
+根据PPI网络分析结果，可知TNF、IL-6、IL-1β、TP53、JUN是核心复方治疗银屑病的核心靶点。TNF是一种促炎和抗炎细胞因子，是自身免疫性疾病、癌症和感染性疾病的核心，可以调控T细胞的增殖、活化与凋亡[15]。TNF-α已被确定为介导银屑病发病机制中皮肤炎症的关键细胞因子。研究发现，TNF/IL-23/IL-17A轴的加速活化是银屑病进展的重要因素[16],银屑病患者血清中的TNF-α和疾病严重程度呈正相关，其中，重度斑块型患者血清中TNF-α表达显著上调[17]。目前，英夫利昔单抗、阿达木单抗和依那西普等TNF 抑制剂已成熟用于治疗中度至重度斑块型银屑病[18]。IL-6参与免疫反应、炎症、造血、骨代谢和胚胎发育等过程，在慢性炎症疾病中通过STAT3、NF-κB发挥作用[19]。对于银屑病样小鼠模型，IL-6信号传导上调可导致炎症反应加重[20],下调则可减轻炎症和角质形成细胞增殖，改善皮损状况[21]。IL-1β是一种关键的强效促炎细胞因子，是由单核和巨噬细胞产生的免疫反应重要介质。参与多种自身免疫性炎症反应和细胞活动。IL-1β对组织细胞的防御与修复至关重要，与疼痛、炎症、自身免疫等有关，与TNF、IL-6均为多种炎症疾病的重要评价指标[22]。TP53与JUN基因与细胞的异常增殖等密切相关，目前相关文献较少，值得进一步探究。
+
+根据GO富集分析结果得出，核心组方治疗银屑病主要与生物过程外来刺激的反应、对无机物的反应、对细胞迁移的正向调控、对细胞运动的正向调控、对激素的反应等密切相关。银屑病发病机制复杂，多种不确定因素的刺激均能诱发银屑病[23]。银屑病典型皮肤损害为局部或广泛分布的鳞屑性红斑或斑块，其组织病理学表现主要为角化过度伴角化不全，与基底层角质形成细胞受非正常调控导致的增殖加速及异常分化有关。目前，糖皮质激素是治疗银屑病的常用药物，轻中重度银屑病均可外用，红皮病型与脓疱型银屑病在必要时也可系统使用[8]。由此，可推测该核心药组参与调控银屑病的发病过程，发挥类激素的治疗作用。KEGG通路富集分析结果显示，核心药组治疗银屑病主要涉及癌症通路、糖尿病并发症中的AGE-RAGE信号通路、脂质和动脉粥样硬化等。目前，银屑病共病是研究热点，调查发现，银屑病患者患皮肤癌、淋巴癌、肺癌和膀胱癌等恶性肿瘤的风险增加[24-25]。2型糖尿病患者银屑病发生率高于正常人[26],两者存在共同的易感基因，通过相同的分子通路参与疾病的发展进程[27],其中，AGE-RAGE信号通路通过氧化应激机制损伤组织和细胞，是导致糖尿病视网膜病变、肾病、溃疡等并发症的重要信号通路[28-30],这可能与银屑病发病相关。银屑病患者常出现脂质表达和新陈代谢异常，更易患高脂血症、代谢综合征、动脉粥样硬化等心血管疾病[31-32]。脂质在维护皮肤正常功能中起重要作用，如神经酰胺参与维持皮肤屏障、表皮细胞粘附、分化和凋亡等，而在银屑病病变中，神经酰胺的组成比例不足[33]。由此，推测核心药组可通过干预同种信号通路，影响银屑病及共病的发生发展。
+
+综上，本研究分析了现代名老中医治疗银屑病常用方剂，得到由地黄、赤芍、牡丹皮、甘草、土茯苓构成的具有清热、养阴、活血功效的核心药组，并利用网络药理学证实其所含槲皮素、山柰酚、黄芩素等活性化合物，可能通过TNF、IL-6、IL-1β等靶标，干预银屑病免疫反应及细胞增殖等发挥治疗作用，为银屑病的中医治疗及其作用机制研究提供了参考。本研究所得核心药组仍属理论探讨，还需通过实际临床运用确定疗效，其药物作用机制也需进一步实验验证。
+
+参考文献
+- [1]何清湖，秦国政．中医外科学[M].3版．北京：人民卫生出版社，2016．
+- [2]国家药典委员会．中华人民共和国药典[M]．北京：中国医药科技出版社，2015．
+- [3]RU J L,LI P,WANG J N,et al.TCMSP:a database of systems pharmacology for drug discovery from herbal medicines[J].J.Cheminformatics,2014,6(1):13．
+- [4]XUE R C,FANG Z,ZHANG M X,et al.TCMID:traditional Chinese medicine integrative database for herb molecular mechanism analysis.[J].Nucleic Acids Research,2013,41(Database issue):D1089-D1895．
+- [5]冯亚莉，李浩，刘娟，等．槲皮素研究进展[J]．中国中药杂志，2021,46(20):5185-5193．
+- [6]雷晓青，陈鳌，刘毅，等．山柰酚药理作用的研究进展[J]．微量元素与健康研究，2017,34(2):61-62．
+- [7]房城，于兴博，郑秀茜，等．黄芩的化学成分及药理作用研究进展[J]．化学工程师，2021,35(3):52-54．
+- [8]中华医学会皮肤性病学分会银屑病专业委员会．中国银屑病诊疗指南（2018完整版）[J]．中华皮肤科杂志，2019,52(10):667-710．
+- [9]孙亚琪．以STAT 3为靶点的银屑病抗炎治疗实验研究[D]．南京：南京医科大学，2017．
+- [10]郭晓瑞，李红文，郑乃刚，等．槲皮素下调人角质形成细胞内NF-κB和IL-6表达的表观遗传学修饰效应[J]．中国皮肤性病学杂志，2013,27(10):977-981．
+- [11]LIU C,LIU H,LU C,et al.Kaempferol attenuates imiquimodinduced psoriatic skin inflammation in a mouse model[J].Clin Exp Immunol,2019,198(3):403-415．
+- [12]沈晓庆，王晶，李婷君．汉黄芩素对胶原诱导性关节炎大鼠的治疗作用及对NLRP3炎症小体的影响[J]．中医药导报，2021,27(8):26-30．
+- [13]许鹏飞，陈渊锦，王丽苹，等．黄芩素有效抑制小鼠肺炎球菌性肺炎感染引起的炎症[J]．药物生物技术，2021,28(4):336-341．
+- [14]HUANG K F,MA K H,LIU P S,et al.Baicalein increases keratin 1and 10expression in HaCaT keratinocytes via TRPV4receptor activation[J].Exp Dermatol,2016,25(8):623-629．
+- [15]MEHTA A K,GRACIAS D T,CROFT M.TNF activity and Tcells[J].Cytokine,2018,101:14-18．
+- [16]FURUE K,ITO T,TSUJI G,et al.Psoriasis and the TNF/IL-23/IL17axis[J].G Ital Dermatol Venereol,2019,154(4):418-424．
+- [17]乔菊，高祎濛，李峰，等．银屑病患者外周血TNF-α、IL-17A、IL-23、IL-36γ表达水平及临床意义[J]．中国皮肤性病学杂志，2019,33(3):280-284．
+- [18]CHIMA M,LEBWOHL M.TNF inhibitors for psoriasis[J].Semin Cutan Med Surg,2018,37(3):134-142．
+- [19]HIRANO T.IL-6in inflammation,autoimmunity and cancer[J].Int Immunol,2021,33(3):127-148．
+- [20]NADEEM A,AHMAD S F,AL-HARBI N O,et al.GPR43activation enhances psoriasis-like inflammation through epidermal upregulation of IL-6and dual oxidase 2signaling in a murine model[J].Cell Signal,2017,33:59-68．
+- [21]LEE W R,LIN Y K,ALALAIWE A,et al.Fractional laser-mediated siRNA delivery for mitigating psoriasis-like lesions via IL-6silencing[J].Mol Ther Nucleic Acids,2020,19:240-251．
+- [22]NAMBI G.Does low level laser therapy has effects on inflammatory biomarkers IL-1β,IL-6,TNF-α,and MMP-13in osteoarthritis of rat models-a systemic review and meta-analysis[J].Lasers Med Sci,2021,36(3):475-484．
+- [23]赵辨．中国临床皮肤病学（下）[M].2版．南京：江苏科学技术出版社，2017:1104-1108．
+- [24]VAENGEBJERG S,SKOV L,EGEBERG A,et al.Prevalence,incidence,and risk of cancer in patients with psoriasis and psoriatic arthritis:a systematic review and meta-analysis[J].JAMADermatol,2020,156(4):421-429．
+- [25]TRAFFORD A M,PARISI R,KONTOPANTELIS E,et al.Association of psoriasis with the risk of developing or dying of cancer:a systematic review and meta-analysis[J].JAMA Dermatol,2019,155(12):1390-1403．
+- [26]JACOB L,KOSTEV K.Psoriasis risk in patients with type 2diabetes in German primary care practices[J].Prim Care Diabetes,2017,11(1):52-56．
+- [27]刘聪颖，潘俊宏，毛逸伦，等．银屑病合并2型糖尿病的研究进展[J]．重庆医科大学学报，2022,47(4):484-488．
+- [28]汤子珍，王文峰，王奕然，等．治未病思想在AGE-RAGE信号通路介导的糖尿病性视网膜病变防治中的应用[J]．中国民间疗法，2021,29(10):6-8．
+- [29]杨超茅，杨志新，马晓玲．AGEs-RAGE信号通路在糖尿病肾病中的作用机制及中医药研究进展[J]．中医学报，2019,34(9):1864-1868．
+- [30]王丽，李杰辉．AGEs-RAGE信号通路与糖尿病难愈合创面[J]．中国烧伤创疡杂志，2015,27(6):406-409．
+- [31]NOWOWIEJSKA J,BARAN A,FLISIAK I.Aberrations in lipid expression and metabolism in psoriasis[J].Int J Mol Sci,2021,22(12):6561．
+- [32]TRONG H N,TAT T N,ANH T T N,et al.Efficacy of adding oral simvastatin to topical therapy for treatment of psoriasis:the vietnamese experience[J].Open Access Maced J Med Sci,2019,7(2):237-242．
+- [33]SHIH C M,CHEN C C,CHU C K,et al.The roles of lipoprotein in psoriasis[J].Int J Mol Sci,2020,2:859.
+序号	中药名称	频次	
+1	地黄	111	
+2	当归	82	
+3	甘草	81	
+4	牡丹皮	72	
+5	赤芍	71	
+6	土茯苓	56	
+7	丹参	47	
+8	黄芩	46	
+9	防风	45	
+10	白芍	43	
+11	金银花	40	
+12	白术	34	
+13	白鲜皮	34	
+14	茯苓	34	
+15	连翘	34	
+16	川芎	33	
+17	玄参	33	
+18	鸡血藤	33	
+19	红花	32	
+20	薏苡仁	32	
+21	白花蛇舌草	30	
+22	栀子	30	
+23	麦冬	30	
+24	桃仁	29	
+25	水牛角	27	
+26	何首乌	26	
+27	紫草	26	
+28	蒺藜	24	
+29	荆芥	22	
+30	黄芪	22	
+
+序号	关联规则	置信度	
+1	玄参→地黄	0.91	
+2	川芎→当归	0.91	
+3	牡丹皮，赤芍→地黄	0.79	
+4	赤芍→地黄	0.73	
+5	牡丹皮→地黄	0.71	
+6	丹参→地黄	0.70	
+7	金银花→地黄	0.68	
+8	白芍→当归	0.67	
+9	黄芩→甘草	0.65	
+10	地黄，牡丹皮→赤芍	0.65	
+11	地黄，赤芍→牡丹皮	0.63	
+12	防风→甘草	0.60	
+13	土茯苓→地黄	0.60	
+14	赤芍→牡丹皮	0.59	
+15	黄芩→地黄	0.59	
+16	牡丹皮→赤芍	0.58	
+17	当归→地黄	0.57	
+18	甘草→地黄	0.54	
+
+序号	药物组合	支持度个数	
+1	地黄，赤芍	52	
+2	地黄，牡丹皮	51	
+3	地黄，当归	47	
+4	地黄，甘草	44	
+5	牡丹皮，赤芍	42	
+6	地黄，牡丹皮，赤芍	33	
+7	地黄，土茯苓	33	
+8	地黄，丹参	33	
+9	当归，甘草	31	
+10	地黄，玄参	30	
+11	甘草，黄芩	30	
+12	当归，川芎	30	
+13	当归，白芍	29	
+14	地黄，金银花	27	
+15	甘草，防风	27	
+16	地黄，黄芩	27	
+17	甘草，牡丹皮	26	
+18	赤芍，土茯苓	26	
+19	甘草，赤芍	25	
+20	茯苓，白术	24	
+21	牡丹皮，土茯苓	24	
+22	红花，桃仁	24	
+23	当归，何首乌	24	
+
+核心化合物	来源	化学式	相对分子质量	CAS号	结合能(kJ/mol)	
+TNF	IL-6	IL-1β	
+槲皮素(quercetin)	牡丹皮、土茯苓、甘草	C15H10O7	302.23	117-39-5	-4.47	-4.95	-8.24	
+山柰酚(kaempferol)	牡丹皮、甘草	C15H10O6	448.377	520-18-3	-6.75	-6.2	-7.65	
+黄芩素(baicalein)	赤芍	C21H18O11	446.37	491-67-8	-6.05	-5.14	-6.91	
+

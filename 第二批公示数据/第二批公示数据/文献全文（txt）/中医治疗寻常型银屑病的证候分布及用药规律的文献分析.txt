@@ -1,0 +1,150 @@
+中医治疗寻常型银屑病的证候分布及用药规律的文献分析（期刊）广州中医药大学学报2020(06)
+中医治疗寻常型银屑病的证候分布及用药规律的文献分析
+- 1 资料与方法1.1 文献资料来源1.2 文献纳入标准1.3 文献排除标准1.4 文献数据的筛选与处理1.4.1 数据库建立1.4.2 证型、方剂、药物、证素术语规范化1.5 统计方法
+- 1.1 文献资料来源
+- 1.2 文献纳入标准
+- 1.3 文献排除标准
+- 1.4 文献数据的筛选与处理1.4.1 数据库建立1.4.2 证型、方剂、药物、证素术语规范化
+- 1.4.1 数据库建立
+- 1.4.2 证型、方剂、药物、证素术语规范化
+- 1.5 统计方法
+- 2 结果2.1 文献筛选结果2.2证型分布2.3 中药功效分类和中药频次统计2.5 中药聚类分析2.6 证素层次聚类分析
+- 2.1 文献筛选结果
+- 2.2证型分布
+- 2.3 中药功效分类和中药频次统计
+- 2.5 中药聚类分析
+- 2.6 证素层次聚类分析
+- 3 讨论
+- 参考文献
+- 参考文献
+- 注释
+- [1]DANIELSEN K, OLSEN A O, WILSGAARD T, et al. Is the prevalence of psoriasis increasing? A 30-year follow-up of a population-based cohort[J]. Br J Dermatol, 2013, 168(6):1303-1310.
+- [2]GIBBS S. Skin disease and socioeconomic conditions in rural Africa:Tanzania[J]. Int J Dermatol,1996,35(9):633-639.
+- [3]全国银屑病流行调查组.全国1984年银屑病流行调查报告[J].皮肤病与性病,1989,11(1):60-72.
+- [4]丁晓岚,王婷琳,沈佚葳,等.中国六省市银屑病流行病学调查[J].中国皮肤性病学杂志,2010,24(7):598-601.
+- [5]中华医学会皮肤性病学分会银屑病专业委员会.中国银屑病诊疗指南(2018简版)[J].中华皮肤科杂志,2019,52(4):223-230.
+- [6]国家技术监督局.中医临床诊疗术语·证候部分[M].北京:中国标准出版社,1997.
+- [7]朱文锋.中医诊断学[M].北京:中国中医药出版社,2002.
+- [8]邓中甲.方剂学[M].北京:中国中医药出版社,2003.
+- [9]高学敏.中药学[M].北京:中国中医药出版社,2007.
+- [10]赵国平.中医药大辞典[M].上海:上海科学技术出版社,2005.
+- [11]尚俊良,徐佳,王莒生,等.肝与银屑病的研究概述[J].中华中医药杂志,2018,33(1):236-238.
+- [12]李晓睿,李咏梅,蔡希,等.从肝论治寻常型银屑病的临床多中心随机对照研究[J].长春中医药大学学报,2017,33(6):960-963.
+- [13]李咏梅,马绍尧,冯国强,等.从肝论治银屑病495例疗效观察[J].浙江中西医结合杂志,2007,17(12):776-777.
+- [14]付双杏.凉血疏肝方对寻常型银屑病患者血清神经肽Y影响的研究[D].广州:广州中医药大学,2012.
+- [15]蔡一歌.顽固性寻常型银屑病与中医经络辨证相关性的初步研究[D].北京:首都医科大学,2013.
+- [16]李宁飞,王燕,赵京霞,等.银屑病从心肝论治理论浅析[J].环球中医药,2018,11(12):1964-1966.
+- [17]王珂,张燚.张燚“分期—身心同治”银屑病[J].实用中医内科杂志,2018,32(3):6-9.
+
+
+中医治疗寻常型银屑病的证候分布及用药规律的文献分析
+- 曹艳红，
+- 朱珂，
+- 潘富强，
+- 陈楚敏，
+- 谢佳芯，
+- 冼丽柠，
+- 眭道顺
+- 广州中医药大学，
+- 广州中医药大学第一附属医院
+摘要：检索中国知网(CNKI)、万方数据、维普等数据库中有关中药治疗寻常型银屑病的临床文献,采用频数分析及Ward’s层次聚类分析方法探讨中药治疗寻常型银屑病的证候分布和用药规律。结果显示,共检索得到文献256篇,涉及证型52个,证素24个,方剂214首,中药223味。寻常型银屑病的常见证型为血热瘀滞证、血热毒盛证和阴虚血燥证;对用药频次≥30的中药采用R型系统聚类生成2首聚类方,聚类方1以凉血解毒、活血化瘀为主要功效,由生地黄、牡丹皮、赤芍和土茯苓等组成;聚类方2以清热解毒、凉血滋阴为主要功效,由金银花、板蓝根、玄参和黄芩等组成。分析提示寻常型银屑病最常见的证型是血热瘀滞证和血热毒盛证,治疗以凉血解毒、活血化瘀为主,用药以生地黄、牡丹皮、赤芍、土茯苓、金银花、板蓝根、玄参和黄芩等为主,临床需随证加减,灵活应用。
+
+关键词：寻常型银屑病;血热瘀滞;血热毒盛;凉血解毒;生地黄;牡丹皮;赤芍;土茯苓;文献研究
+
+作者简介：曹艳红(1994-),女,硕士研究生;E-mail:cyhong1216@163.com*眭道顺,男,主任医师,硕士研究生导师;E-mail:sdaos@163.com
+
+收稿日期：2019-07-02
+
+Modern Literature Study on Syndrome Distribution and Chinese Medicine Medication Regularity in Treatment of Psoriasis Vulgaris
+- CAO Yan-Hong,
+- ZHU Ke,
+- PAN Fu-Qiang,
+- CHEN Chu-Min,
+- XIE Jia-Xin,
+- XIAN Li-Ning,
+- SUI Dao-Shun
+- Guangzhou University of Chinese Medicine,
+- The First Affiliated Hospital of Guangzhou University of Chinese Medicine
+Abstract：The clinical reports of Chinese medicine treatment for psoriasis vulgaris issued in the databases of CNKI,Wanfang Data,and VIP were retrieved. Frequency analysis and Ward's hierarchical clustering analysis were adopted to explore the distribution of syndromes and the rule of Chinese medicine medication in the treatment of psoriasis vulgaris. The results showed that 256 reports were obtained,and the reports involved 52 syndrome types, 24 syndrome elements, 214 recipes and 223 herbs. The commonly-seen syndrome types in psoriasis vulgaris were stagnation of blood heat and blood stasis syndrome,blood heat with excessive toxin syndrome,yin deficiency and blood dryness syndrome. The herbs with the medication frequency being or over 30 can be classified into 2 clustered recipes by R-cluster analysis. Clustered recipe 1 mainly has the actions of cooling blood for detoxification, and activating blood to remove stasis, and is mainly composed of Radix Rehmanniae, Cortex Moutan, Radix Paeoniae Rubra, and Rhizoma Smilacis Glabrae. Clustered recipe 2 mainly has the actions of clearing heat for detoxification,and cooling blood and nourishing yin,and is mainly composed of Flos Lonicerae,Radix Isatidis, Radix Scrophulariae, and Radix Scutellariae. The analysis results indicated that stagnation of blood heat and blood stasis syndrome and blood heat with excessive toxin syndrome are the mostly common syndrome types in psoriasis vulgaris,the primary therapies for psoriasis vulgaris are the methods of cooling blood for detoxification,and activating blood to remove stasis,and the commonly-used herbs are Radix Rehmanniae,Cortex Moutan, Radix Paeoniae Rubra, Rhizoma Smilacis Glabrae, Flos Lonicerae, Radix Isatidis, Radix Scrophulariae, and Radix Scutellariae. Flexible medication in the clinic should be based on the syndrome differentiation.
+
+Key words：psoriasis vulgaris;stagnation of blood heat and blood stasis;blood heat with excessive toxin;cooling blood for detoxification;Radix Rehmanniae;Cortex Moutan;Radix Paeoniae Rubra;Rhizoma Smilacis Glabrae;literature research
+
+Received：2019-07-02
+
+银屑病是一种与自身免疫相关的慢性炎症性皮肤病，可累及多个系统，其临床症状以红色丘疹或斑块为主，可覆盖有多层白色鳞屑，刮出鳞屑后可见薄膜现象和点状出血。银屑病常见类型有寻常型、脓疱型、关节病型和红皮病型，其中寻常型银屑病是最常见的类型，中医称之为“白疕”。欧美国家的流行病学调查发现银屑病的患病率为1%～3%[1-2];1984年我国流行病学调查估计当时发病率为12/10万[3],2010年我国六省市银屑病流行病学调查发现，银屑病的总患病率为0.59%[4]。本病病程长，病症所带来的对身体和心灵的双重打击常严重影响患者生活、工作和学习。由于本病病因复杂，发病机制尚未明确，目前尚缺乏较好的治疗办法。西医治疗本病采用外用润肤剂、地蒽酚、他扎罗汀、卡泊三醇、他卡西醇、他克莫司、糖皮质激素，内服甲氨喋呤、环孢素、维A酸类等为主，结合生物制剂、户外紫外线（UVB）光疗等[5]，但总体疗效欠佳，且药物副作用较大。中医对本病认识由来已久，对其治疗积累了较丰富的经验。本研究通过检索与整理现代中医文献中寻常型银屑病的证候与证素分布规律、常用的方剂和中药，探索寻常型银屑病的证治用药规律，以期为提高中医治疗寻常型银屑病临床疗效提供参考。
+
+1 资料与方法
+1.1 文献资料来源
+以“中医药”和“寻常型银屑病”为检索词，在中国知网（CNKI）、万方数据、维普（时间均为各数据库收录起始年至2019年4月）中检索中医药治疗寻常型银屑病的文献。
+
+1.2 文献纳入标准
+(1）纳入文献的患者符合2018年中华医学会皮肤性病学分会编写的《中国银屑病治疗指南》[5]中所列的寻常型银屑病的诊断标准；（2）含有完整治疗方（包括自拟方）的中医治疗寻常型银屑病的临床研究、临床观察和个人治疗经验类文献。
+
+1.3 文献排除标准
+(1）中医治疗部分为艾灸、理疗等非内服方法类文献；（2）文献中的治疗包含有西医药物或其他治疗手段的文献；（3）仅有个别病例的验案或疗效不明显的文献；（4）研究内容重复发表或重复引用或使用同一方药的文献，资料记录不详实的文献。
+
+1.4 文献数据的筛选与处理
+首先对收集的符合纳入与排除标准的全部文献进行标题和作者筛选，筛除标题和作者均重复的文献；然后对初步筛选后的文献进行摘要阅读，筛除方药、治法重复的文献；最后对二次筛选后的文献进行全文阅读，筛除方药、治法、数据重复的文献，将筛选后的文献纳入最终的寻常型银屑病文献研究数据库。
+
+1.4.1 数据库建立
+运用Excel软件建立寻常型银屑病的中药、中药功效分类、中药归经、方剂、方剂功效分类、中医证型、证素数据库。
+
+1.4.2 证型、方剂、药物、证素术语规范化
+中医证型名称和分类参照《中医临床诊疗术语·证候部分》[6]和《中医诊断学》[7]证型标准进行统一规范，对于以上标准规范中未涉及、不便于修改又较为重要的证型，按原文献予以保留，如风热毒盛证。方剂功能分类参照《方剂学》[8]，自拟方归为“自拟方”一类。中药名称、药物功能分类和归经参照《中药学》[9]和《中医药大辞典》[10]所载标准整理，当单味药的归经不止一条者，按多条归经计；统一中药的名称，如将“夜交藤”统一为“何首乌藤”。
+
+1.5 统计方法
+建立数据库后，运用Excel软件对数据进行结构化处理，再导入SPSS Statistics 22进行统计分析。证型、证素、方剂功能分类、单味中药、中药功能分类、中药归经等均采用频数分析法，药物聚类分析采用R型系统聚类分析法，证素聚类分析以文献中证素出现的频数作为变量，采用Ward’s层次聚类法进行分析。
+
+2 结果
+2.1 文献筛选结果
+经筛选后最终得到文献256篇，证型52个，证素24个，方剂214首，中药223味。
+
+2.2证型分布
+初步筛选后共提取证型215个，经证型名称规范后得到52个证型，其中血热瘀滞证、血热毒盛证、血热化燥证为常用证型。证型频次≥2的证型分布见表1。
+
+表1 证型频次≥2的寻常型银屑病证型分布
+Table 1 Distribution of syndrome types with frequency≥2 in psoriasis vulgaris
+2.3 中药功效分类和中药频次统计
+中药功效分类频次居前3位的依次是清热解毒药、清热凉血药、活血调经药。频次≥30的中药功效分类见表2。223味中药中，用药频次较高的依次是生地黄、赤芍、土茯苓、丹参、牡丹皮，频次>25的中药见表3。223种中药归经分布见表4，其中肝经中药最多，占24.3%。
+
+2.5 中药聚类分析
+对223种中药中频次≥30的中药进行R型聚类分析，生成2首聚类方，见表5。
+
+表2 功效分类频次≥30的治疗寻常型银屑病中药分类分布
+Table 2 Herbal categories with frequency≥30 for psoriasis vulgaris
+表3 用药频次>25的治疗寻常型银屑病中药分布
+Table 3 Herbs for psoriasis vulgaris with frequency>25
+表4 治疗寻常型银屑病中药的归经分布
+Table 4 Meridian tropism of herbs for psoriasis vulgaris
+表5 治疗寻常型银屑病中药聚类结果
+Table 5 Clustering results of herbs for psoriasis vulgaris
+2.6 证素层次聚类分析
+证素是构成证候的基本要素，为进一步探究证素之间的相关性，从另一角度分析文献中寻常型银屑病的常见证候，本研究对频次≥15的证素进行Ward’s层次聚类分析。结果显示可聚类成4种类型：血热（第1类），血瘀、毒（第2类），阴虚、血燥（第3类），以及内风、外风、湿邪、血虚、气滞（第4类），结果见图1。其中第1类和第2类在二次聚类中合为1类，故寻常型银屑病的常见证型组合为血热瘀滞证、血热毒盛证和阴虚血燥证。
+
+图1 寻常型银屑病证素的Ward’s法层次聚类分析结果
+Figure 1 Ward’s hierarchical clustering results for the syndrome elements of psoriasis vulgaris
+3 讨论
+传统中医认为寻常型银屑病的病因病机是邪郁肌肤，气血不畅，肌肤失养；或热蕴血络，气血两燔，耗伤阴血，多从活血化瘀和清热解毒论治。本研究统计得到频次最高的证型分别是血热瘀滞证、血热毒盛证和血热化燥证，与传统认识基本一致；通过对频次≥15的证素进行Ward’s层次聚类分析发现，寻常型银屑病的常见证型组合为血热瘀滞证、血热毒盛证和阴虚血燥证，结果与证候统计基本相符。可见中医治疗寻常型银屑病的最常见的3大证型为血热瘀滞证、血热毒盛证和血热化燥证。
+
+本研究共提取得到中药223味，使用频次较多的依次为生地黄、赤芍、土茯苓、丹参、牡丹皮。对频次≥30的中药采用R型系统聚类生成2首聚类方。聚类方1由生地黄、牡丹皮、赤芍、土茯苓、丹参、紫草、当归组成，其中生地黄、牡丹皮、丹参、赤芍和紫草凉血活血，土茯苓清热解毒，共奏凉血解毒、活血化瘀之功效，其适应证候为血热瘀滞证和血热毒盛证。聚类方2由金银花、板蓝根、玄参、黄芩、槐花、鸡血藤、白花蛇舌草、白鲜皮、苦参、大青叶、连翘、甘草组成，其中金银花、板蓝根、白花蛇舌草、大青叶、连翘清热解毒，玄参滋阴凉血，苦参、白鲜皮燥湿又不伤阴，黄芩、槐花清热解毒，全方共奏清热解毒、凉血滋阴之功效，其适应证候为血热化燥证。
+
+中药归经统计结果以肝经为最多，体现了肝在寻常型银屑病中的重要作用。肝主疏泄，肝郁气滞则情志不畅，而银屑病本身属于心身性皮肤病[5]。肝主血，银屑病的血瘀、血虚与肝关系甚密，且肝的疏泄功能失调导致的过怒或抑郁是银屑病加重、复发的重要因素[5]。临床研究亦证明从肝论治、心理干预对寻常型银屑病具有确切疗效[11-17]，印证了肝与银屑病的密切关系。故今后在临床治疗寻常型银屑病时可酌加柴胡、郁金和香附等疏肝行气药物。
+
+参考文献
+- [1]DANIELSEN K, OLSEN A O, WILSGAARD T, et al. Is the prevalence of psoriasis increasing? A 30-year follow-up of a population-based cohort[J]. Br J Dermatol, 2013, 168(6):1303-1310.
+- [2]GIBBS S. Skin disease and socioeconomic conditions in rural Africa:Tanzania[J]. Int J Dermatol,1996,35(9):633-639.
+- [3]全国银屑病流行调查组.全国1984年银屑病流行调查报告[J].皮肤病与性病,1989,11(1):60-72.
+- [4]丁晓岚,王婷琳,沈佚葳,等.中国六省市银屑病流行病学调查[J].中国皮肤性病学杂志,2010,24(7):598-601.
+- [5]中华医学会皮肤性病学分会银屑病专业委员会.中国银屑病诊疗指南(2018简版)[J].中华皮肤科杂志,2019,52(4):223-230.
+- [6]国家技术监督局.中医临床诊疗术语·证候部分[M].北京:中国标准出版社,1997.
+- [7]朱文锋.中医诊断学[M].北京:中国中医药出版社,2002.
+- [8]邓中甲.方剂学[M].北京:中国中医药出版社,2003.
+- [9]高学敏.中药学[M].北京:中国中医药出版社,2007.
+- [10]赵国平.中医药大辞典[M].上海:上海科学技术出版社,2005.
+- [11]尚俊良,徐佳,王莒生,等.肝与银屑病的研究概述[J].中华中医药杂志,2018,33(1):236-238.
+- [12]李晓睿,李咏梅,蔡希,等.从肝论治寻常型银屑病的临床多中心随机对照研究[J].长春中医药大学学报,2017,33(6):960-963.
+- [13]李咏梅,马绍尧,冯国强,等.从肝论治银屑病495例疗效观察[J].浙江中西医结合杂志,2007,17(12):776-777.
+- [14]付双杏.凉血疏肝方对寻常型银屑病患者血清神经肽Y影响的研究[D].广州:广州中医药大学,2012.
+- [15]蔡一歌.顽固性寻常型银屑病与中医经络辨证相关性的初步研究[D].北京:首都医科大学,2013.
+- [16]李宁飞,王燕,赵京霞,等.银屑病从心肝论治理论浅析[J].环球中医药,2018,11(12):1964-1966.
+- [17]王珂,张燚.张燚“分期—身心同治”银屑病[J].实用中医内科杂志,2018,32(3):6-9.

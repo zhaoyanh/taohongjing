@@ -1,0 +1,147 @@
+基于数据挖掘和网络药理学探讨名老中医用清热凉血药治疗银屑病的组方规律和作用机制（期刊）中国中医基础医学杂志2023(09)
+基于数据挖掘和网络药理学探讨名老中医用清热凉血药治疗银屑病的组方规律和作用机制
+- 参考文献
+- 注释
+- [1] KAMIYA K, KISHIMOTO M, SUGAI J, et al. Risk factors for the development of psoriasis[J]. Int J Mol Sci, 2019,20(18):43-47.
+- [2] MICHALEK I M, LORING B, JOHN S M. A systematic review of worldwide epidemiology of psoriasis[J]. J Eur Acad Dermatol Venereol, 2017,31(2):205-212.
+- [3]张翰林,舒畅,晋红中.生物制剂治疗银屑病的研究进展[J].中国科学:生命科学, 2021,51(8):1050-1059.
+- [4]中华医学会皮肤性病学会银屑病专业委员会.中国银屑病诊疗指南(2018完整版)[J].中华皮肤科杂志, 2019,52(10):667-668.
+- [5]韩世荣.古今中医名家皮肤病医案荟萃[M].西安:陕西科学技术出版社, 2017:47.
+- [6]禤国维.中医皮肤病临证精粹[M].广州:广东人民出版社,2001:132.
+- [7]张文康.中国百年百名中医临床家丛书[M].北京:中国中医药出版社, 2009:333.
+- [8]吴少祯.国医大师临床经验实录[M].北京:中国医药科技出版社, 2011:359.
+- [9]吴大真.国医大师验案良方:皮肤病卷[M].北京:学苑出版社, 2015:270.
+- [10]张丰强.首批国家级名老中医效验秘方精选[M].北京:国际文化出版社, 1996:25.
+- [11]董建华,王永炎.中国现代名中医医案精粹[M].北京:人民卫生出版社, 2010:120.
+- [12]徐宜厚.徐宜厚皮肤科文集[M].北京:中国中医药出版社,2019:25-235.
+- [13]唐德才.中药学[M].北京:人民卫生出版社, 2021:38-384.
+- [14]国家药典委员会.中华人民共和国药典[M].北京:中国医药科技出版社, 2020:301.
+- [15]国家中医药管理局中华本草编委会.中华本草[M].上海:上海科学技术出版社, 1999:42-535.
+- [16] HAHSLER M. Arules:mining association rules and frequent itemsets[J]. Stud Polit Econ, 2015,93(3):53-80.
+- [17] YANG L. Visualizing frequent itemsets, association rules, and sequential patterns in parallel coordinates[C]. International Conference on Computational Science and Its Applications,2003:21-30.
+- [18] RU J, LI P, WANG J, et al. TCMSP:a database of systems pharmacology for drug discovery from herbal medicines[J]. J Cheminform, 2014,6(13):1-6.
+- [19]李行诺,周孟宇,沈培强,等.生地黄化学成分研究[J].中国中药杂志, 2011,36(22):3125-3129.
+- [20]张雅阁,李更生,王慧森,等.地黄化学成分血清药物化学的初步研究[J].中医研究, 2010,23(5):32-34.
+- [21]吕思霖.基于性状、化学成分的地黄九蒸九晒炮制科学性研究[D].太原:山西大学, 2021.
+- [22]杨巧虹,陈萍.生地黄标准汤剂质量评价及其指纹图谱的建立[J].医药导报, 2021,40(10):1383-1390.
+- [23]潘文超,潘瑾,薛晓燕,等.百合地黄汤现代方化学成分研究[J].时珍国医国药, 2021,32(8):1884-1888.
+- [24]陈金鹏,张克霞,刘毅,等.地黄化学成分和药理作用的研究进展[J].中草药, 2021,52(6):1772-1784.
+- [25]付国辉,杜鑫.地黄化学成分及药理作用研究进展[J].中国医药科学, 2015,5(15):39-41.
+- [26]郭丽娜,白皎,裴月湖.生地黄化学成分的分离与鉴定[J].沈阳药科大学学报, 2013,30(7):506-508.
+- [27]李林,李博鉴.朱仁康老中医治疗银屑病的经验[J].中医杂志, 1985,12(1):12-14.
+- [28]倪朱谟.本草汇言[M].北京:中医古籍出版社, 2005:54.
+- [29]赵子申,高雅丽,刘文芳,等.玉屏风散现代药理学研究及皮肤科研究进展[J].中国中西医结合皮肤性病学杂志,2018,17(2):187-189.
+- [30]于丽源,张瑶,方险峰.黄芪在皮肤病中的临床应用概况[J].中国现代医学杂志, 2018,28(6):54-58.
+- [31]李炎夏,周起云,陆王景学,等.黄芪维胺酯联合应用对银屑病甲襞微循环的影响[J].中国皮肤性病学杂志, 1998,12(6):26-27.
+- [32]马生军,耿阳,马露,等.药用紫草研究进展[J].中国现代中药, 2021,23(1):177-184.
+- [33]丁晓彦,林志军,王岱.金银花-连翘药对的成分和药理作用研究进展[J].山东科学, 2019,32(3):36-41.
+- [34]张荔,刘杰,陈群,等.中药单体抗皮肤鳞状细胞癌研究进展[J].辽宁中医药大学学报, 2019,21(9):126-129.
+- [35]李博,陈志勇,刘太阳,等.汉黄芩素对皮肤鳞状细胞癌A431细胞株增殖与侵袭的影响及其作用机制[J].局解手术学杂志, 2019,28(4):256-261.
+- [36] ZHOU W, HU M, ZANG X, et al. Luteolin attenuates imiquimod-induced psoriasis-like skin lesions in BALB/c mice via suppression of inflammation response[J]. Biomed Pharmacother, 2020,13(1):110696.
+- [37] LIU C, LIU H, LU C, et al. Kaempferol attenuates imiquimodinduced psoriatic skin inflammation in a mouse model[J]. Clin Exp Immunol, 2019,198(3):403-415.
+- [38] HEIT B, YEUNG T, GRINSTEIN S. Changes in mitochondrial surface charge mediate recruitment of signaling molecules during apoptosis[J]. Am J Physiol Cell Physiol, 2011,300(1):C33-C41.
+- [39]薛德冬,李锐.乙酰紫草素对人结肠癌HCT116细胞增殖、凋亡及上皮间充质转化的影响[J].中成药, 2017,39(2):401-404.
+- [40]陈虹,张闪闪,董锦蕾,等.紫檀茋和乙酰紫草素抑制B16F10细胞增殖的协同作用[J].中国药理学通报, 2016,32(6):818-824.
+- [41] PETERS E M, RAAP U, WELKER P, et al. Neurotrophins act as neuroendocrine regulators of skin homeostasis in health and disease[J]. Horm Metab Res, 2007,39(2):110-124.
+- [42]邢潇匀,马蕾. PI3K/AKT信号通路在银屑病发病机制中的研究进展[J].国际医药卫生导报,2022,28(5):594-597.
+- [43] TORALES-CARDENA A, MARTINEZ-TORRES I, RODRIGUEZMARTINEZ S, et al. Cross talk between proliferative, angiogenic,and cellular mechanisms orchestred by HIF-1alpha in psoriasis[J]. Mediators Inflamm, 2015,2015:607363.
+- [44]张楠,田野,瞿幸.祛毒止痒汤治疗寻常型银屑病的临床价值研究[J].世界中医药, 2022,17(3):404-407.
+
+
+基于数据挖掘和网络药理学探讨名老中医用清热凉血药治疗银屑病的组方规律和作用机制
+- 陈新荣，
+- 郑继源，
+- 陈达满，
+- 莫嘉浩，
+- 张振瑜，
+- 李焯瑶，
+- 高晓露，
+- 闫玉红
+- 广州中医药大学，
+- 广东省中医院省部共建中医湿证国家重点实验室
+摘要：目的 探讨清热凉血药在名老中医治疗银屑病中的组方规律,分析其潜在作用机制,为银屑病的临床遣方用药和新药开发提供依据。方法 筛选出若干本中医著作中名老中医用清热凉血药治疗银屑病的方剂,运用Microsoft Excel 2010计算中药用药频数,SPSS Clementine 12.0软件的Apriori版块和R软件的arules、arulesViz插件进行关联规则分析。选取核心药物在TCMSP数据库获取有效活性成分,在SwissADME平台进行药动学参数筛选,并将活性成分导入至SWisstargetprediction中预测药物靶点。在Gene Card、TTD、DrugBank、Dis Ge NET、OMIM等疾病数据库中获取银屑病疾病靶点,利用Cytoscape3.8. 2中的BisoGent插件和CytoNCA插件进行核心作用靶点筛选,所得核心靶点利用R软件进行基因功能注释(gene ontology,GO)和京都基因与基因组百科全书(kyoto encyclopedia of genes and genomes,KEGG)富集分析。结果 共纳入181个方剂,涉及215种中药,用药频次≥17的高频中药有35种,频次最高的药物是生地黄。关联规则分析显示最常用的药对配伍是生地黄-牡丹皮,提升度最高的药物配伍是金银花-连翘。核心药物配伍是生地黄、牡丹皮、赤芍、紫草。它们共有62个有效成分,关键成分可能是异戊酰紫草素、乙酰紫草根素、黄芩素、木犀草素、山柰酚,其中筛选出376个核心靶点。GO分析和KEGG富集分析显示核心药物可能通过神经营养因子信号通路、磷酸化磷脂酰肌醇3激酶-蛋白激酶B(phosphatidylinositol 3-kinase-protein kinase B,PI3K-Akt)信号通路和缺氧诱导因子-1(hypoxia inducible factor-1,HIF-1)信号通路等发挥作用。结论 治疗银屑病方剂使用清热凉血药为主,同时辅以活血化瘀、养血解毒、祛风止痒、破血祛瘀之法,且注重祛邪不忘扶正。核心药物作用机制可能是通过异戊酰紫草素、乙酰紫草根素、黄芩素、木犀草素、山柰酚等活性成分作用于神经营养因子信号通路、PI3K-Akt信号通路和HIF-1信号通路等发挥抗炎、调节免疫反应、调控转录水平、血管损伤修复的作用。本研究可为银屑病的临床遣方用药和新药开发提供一定参考。
+
+基金：国家自然科学基金项目(81704081);国家中医药管理局中医临床研究基地项目(JDZX2015196);中医湿证国家重点实验室专项(SZ2021ZZ37);广东省中医院临床研究重点专项(YN2015MS07);广东重点领域研发计划(2020B1111100006)
+
+关键词：银屑病;清热凉血;数据挖掘;网络药理学
+
+作者简介：陈新荣(1999-),男,在读硕士研究生,从事银屑病的临床与基础研究。*闫玉红(1981-),女,主任医师,从事银屑病的临床与基础研究,E-mail:15920395608@139.com。
+
+收稿日期：2023-05-26
+
+Exploration of Formulation Regularity and Mechanism of Action of Renowned Traditional Chinese Medicine Physicians in Treating Psoriasis with Clearing Heat and Cooling Blood Drugs Based on Data Mining and Network Pharmacology
+- CHEN Xinrong,
+- ZHENG Jiyuan,
+- CHEN Daman,
+- MO Jiahao,
+- ZHANG Zhenyu,
+- LI Zhuoyao,
+- GAO Xiaolu,
+- YAN Yuhong
+- Guangzhou University of Chinese Medicine,
+- State Key Laboratory of Dampness Syndrome of Chinese Medicine, The Second Affiliated Hospital of Guangzhou University of Chinese Medicine
+Abstract：Objective To explore the medication rules of clearing heat and cooling blood drugs in treating psoriasis among the famous traditional Chinese medicine practitioners, analyze their potential mechanisms, and provide the basis for the clinical prescription medication and new drug development for psoriasis. Methods After selecting formulas those related to the application of heat clearing and blood cooling drugs by renowned traditional Chinese medicine practitioners to treat psoriasis from several traditional Chinese medicine books, the traditional Chinese medicine medication frequency was calculated by Microsoft Excel 2010. The Apriori section of SPSS Clementine 12. 0 software and the arules and arules Viz plug-ins of R software were performed for association rule analysis. Obtain the active ingredients of core drugs in the TCMSP database. Screening pharmacokinetic parameters on the Swiss ADME and importing the screened active ingredients into SWisstargetprediction to predict drug targets. Subsequently, psoriasis targets were obtained from disease databases such as Gene Card, TTD, Drug Bank, Dis Ge NET, and OMIM. The Biso Gent plug-in and Cyto NCA plug-in in Cytoscape 3. 8. 2was used for core role target screening, and R software was used for GO and KEGG analysis. Results A total of 181prescriptions were included, with 215 traditional Chinese medicine drugs involved. There were 35 high-frequency types of traditional Chinese medicine with a medication frequency greater than or equal to 17. The most frequent drug was Rehmannia glutinosa. Association rule analysis showed that the most common drug pairing was raw Rehmannia glutinosaMoutan Cortex, and the highest promotion of drug compatibility was Lonicera japonica Thunb-Forsythia suspensa. The core drug compatibilities were raw Rehmannia glutinosa, Moutan Cortex, Paeoniae Radix Rubra, and Lithospermum. They had a total of 62 active components, and the key components may be [(1R)-1-(5,8-dihydroxy-1,4-dioxo-2-naphthyl)-4-methylpent-3-enyl] propanoate, Acetylshikonin, Baicalein, luteolin, Kaempferol. And they had 376 core targets. GO analysis and KEGG pathway enrichment analysis showed that core drugs may function through neurotrophin signaling pathway,PI3K-Akt signaling pathway and HIF-1 signaling pathway. Conclusion The prescriptions for treating psoriasis mainly used heat clearing and blood cooling drugs, supplemented by promoting blood circulation and resolving stasis, nourishing blood and detoxifying, dispelling wind and itching, breaking blood and removing stasis. The mechanism of action of core drugs may be that the active components such as isovalerylshikonin, acetylshikonin, baicalein, luteolin, kaempferol act on neurotrophin signaling pathway, PI3K-Akt signaling pathway and HIF-1 signaling pathway to play the role of antiinflammatory, regulating immune response, regulating transcription level, and repairing vascular damage. This study can provide a reference for the clinical prescription and new drug development of psoriasis.
+
+Key words：Psoriasis;Clearing heat and cooling blood;Data mining;Network pharmacology
+
+Received：2023-05-26
+
+银屑病是一种临床常见的经免疫介导的慢性炎症性皮肤疾病,主要表现为皮肤出现边界清晰的红斑、银白色的银屑和皮肤表皮增厚[1]。有研究表明,银屑病在全年龄段中的患病率为0.09%～5.1%,具有病程长、极易复发的特点,给患者的身心带来了极大负担[2]。近年来,随着针对肿瘤坏死因子(tumor necrosisfactor,TNF)-α,白细胞介素(interleukin,IL)-23、IL-17等因子的生物制剂的开发和应用,银屑病的治疗取得了较大进展,但仍然无法根治[3]。
+
+中医药防治皮肤病已有多年历史,具有丰富的临床实践经验。银屑病属于中医学“白疕”“风癣”“松皮癣”等范畴。《中国银屑病诊疗指南(2018完整版)》中提出,该病的发生发展与血分密切相关,“病在血分,从血论治”,血热、血瘀、血燥是其基本临床分型[4]。中医临床针对血热型银屑病进行治疗时,也多选用清热凉血药物以及凉血和营等治法。名老中医代表着当前中医学术和临床发展的最高水平,他们的辨证用药经验对临床诊疗具有较大的参考价值。本研究拟通过分析《古今中医名家皮肤病医案荟萃》《中医皮肤病临证精粹》等若干本中医著作中名老中医用清热凉血药治疗银屑病的方剂,探讨名老中医用清热凉血药治疗银屑病的组方规律,并基于网络药理学探讨核心药物的作用机制,以期为临床治疗银屑病提供处方遣药的思路和依据。
+
+1 数据挖掘
+1.1 数据来源
+数据来源于《古今中医名家皮肤病医案荟萃》[5]《中医皮肤病临证精粹》[6]《中国百年百名中医临床家丛书》[7]《国医大师临床经验实录》[8]《国医大师验案良方·皮肤卷》[9]《首批国家级名老中医效验秘方精选》[10]《中国现代名中医医案精粹》[11]及《徐宜厚皮肤科文集》[12]。
+
+1.2 纳入标准
+以方剂主治为依据,纳入明确主治为“银屑病”,包括别名“牛皮癣”“白疕”等的方剂;方剂有明确的组成、剂量和用法;依据人民卫生出版社唐德才主编的全国高等中医药教材《中药学》[13]中清热凉血药归类,纳入方剂组成中含清热凉血类中药的方剂。
+
+1.3 排除标准
+中药外用方剂;方剂组成中含有西药的方剂;组方重复的方剂。
+
+参考文献
+- [1] KAMIYA K, KISHIMOTO M, SUGAI J, et al. Risk factors for the development of psoriasis[J]. Int J Mol Sci, 2019,20(18):43-47.
+- [2] MICHALEK I M, LORING B, JOHN S M. A systematic review of worldwide epidemiology of psoriasis[J]. J Eur Acad Dermatol Venereol, 2017,31(2):205-212.
+- [3]张翰林,舒畅,晋红中.生物制剂治疗银屑病的研究进展[J].中国科学:生命科学, 2021,51(8):1050-1059.
+- [4]中华医学会皮肤性病学会银屑病专业委员会.中国银屑病诊疗指南(2018完整版)[J].中华皮肤科杂志, 2019,52(10):667-668.
+- [5]韩世荣.古今中医名家皮肤病医案荟萃[M].西安:陕西科学技术出版社, 2017:47.
+- [6]禤国维.中医皮肤病临证精粹[M].广州:广东人民出版社,2001:132.
+- [7]张文康.中国百年百名中医临床家丛书[M].北京:中国中医药出版社, 2009:333.
+- [8]吴少祯.国医大师临床经验实录[M].北京:中国医药科技出版社, 2011:359.
+- [9]吴大真.国医大师验案良方:皮肤病卷[M].北京:学苑出版社, 2015:270.
+- [10]张丰强.首批国家级名老中医效验秘方精选[M].北京:国际文化出版社, 1996:25.
+- [11]董建华,王永炎.中国现代名中医医案精粹[M].北京:人民卫生出版社, 2010:120.
+- [12]徐宜厚.徐宜厚皮肤科文集[M].北京:中国中医药出版社,2019:25-235.
+- [13]唐德才.中药学[M].北京:人民卫生出版社, 2021:38-384.
+- [14]国家药典委员会.中华人民共和国药典[M].北京:中国医药科技出版社, 2020:301.
+- [15]国家中医药管理局中华本草编委会.中华本草[M].上海:上海科学技术出版社, 1999:42-535.
+- [16] HAHSLER M. Arules:mining association rules and frequent itemsets[J]. Stud Polit Econ, 2015,93(3):53-80.
+- [17] YANG L. Visualizing frequent itemsets, association rules, and sequential patterns in parallel coordinates[C]. International Conference on Computational Science and Its Applications,2003:21-30.
+- [18] RU J, LI P, WANG J, et al. TCMSP:a database of systems pharmacology for drug discovery from herbal medicines[J]. J Cheminform, 2014,6(13):1-6.
+- [19]李行诺,周孟宇,沈培强,等.生地黄化学成分研究[J].中国中药杂志, 2011,36(22):3125-3129.
+- [20]张雅阁,李更生,王慧森,等.地黄化学成分血清药物化学的初步研究[J].中医研究, 2010,23(5):32-34.
+- [21]吕思霖.基于性状、化学成分的地黄九蒸九晒炮制科学性研究[D].太原:山西大学, 2021.
+- [22]杨巧虹,陈萍.生地黄标准汤剂质量评价及其指纹图谱的建立[J].医药导报, 2021,40(10):1383-1390.
+- [23]潘文超,潘瑾,薛晓燕,等.百合地黄汤现代方化学成分研究[J].时珍国医国药, 2021,32(8):1884-1888.
+- [24]陈金鹏,张克霞,刘毅,等.地黄化学成分和药理作用的研究进展[J].中草药, 2021,52(6):1772-1784.
+- [25]付国辉,杜鑫.地黄化学成分及药理作用研究进展[J].中国医药科学, 2015,5(15):39-41.
+- [26]郭丽娜,白皎,裴月湖.生地黄化学成分的分离与鉴定[J].沈阳药科大学学报, 2013,30(7):506-508.
+- [27]李林,李博鉴.朱仁康老中医治疗银屑病的经验[J].中医杂志, 1985,12(1):12-14.
+- [28]倪朱谟.本草汇言[M].北京:中医古籍出版社, 2005:54.
+- [29]赵子申,高雅丽,刘文芳,等.玉屏风散现代药理学研究及皮肤科研究进展[J].中国中西医结合皮肤性病学杂志,2018,17(2):187-189.
+- [30]于丽源,张瑶,方险峰.黄芪在皮肤病中的临床应用概况[J].中国现代医学杂志, 2018,28(6):54-58.
+- [31]李炎夏,周起云,陆王景学,等.黄芪维胺酯联合应用对银屑病甲襞微循环的影响[J].中国皮肤性病学杂志, 1998,12(6):26-27.
+- [32]马生军,耿阳,马露,等.药用紫草研究进展[J].中国现代中药, 2021,23(1):177-184.
+- [33]丁晓彦,林志军,王岱.金银花-连翘药对的成分和药理作用研究进展[J].山东科学, 2019,32(3):36-41.
+- [34]张荔,刘杰,陈群,等.中药单体抗皮肤鳞状细胞癌研究进展[J].辽宁中医药大学学报, 2019,21(9):126-129.
+- [35]李博,陈志勇,刘太阳,等.汉黄芩素对皮肤鳞状细胞癌A431细胞株增殖与侵袭的影响及其作用机制[J].局解手术学杂志, 2019,28(4):256-261.
+- [36] ZHOU W, HU M, ZANG X, et al. Luteolin attenuates imiquimod-induced psoriasis-like skin lesions in BALB/c mice via suppression of inflammation response[J]. Biomed Pharmacother, 2020,13(1):110696.
+- [37] LIU C, LIU H, LU C, et al. Kaempferol attenuates imiquimodinduced psoriatic skin inflammation in a mouse model[J]. Clin Exp Immunol, 2019,198(3):403-415.
+- [38] HEIT B, YEUNG T, GRINSTEIN S. Changes in mitochondrial surface charge mediate recruitment of signaling molecules during apoptosis[J]. Am J Physiol Cell Physiol, 2011,300(1):C33-C41.
+- [39]薛德冬,李锐.乙酰紫草素对人结肠癌HCT116细胞增殖、凋亡及上皮间充质转化的影响[J].中成药, 2017,39(2):401-404.
+- [40]陈虹,张闪闪,董锦蕾,等.紫檀茋和乙酰紫草素抑制B16F10细胞增殖的协同作用[J].中国药理学通报, 2016,32(6):818-824.
+- [41] PETERS E M, RAAP U, WELKER P, et al. Neurotrophins act as neuroendocrine regulators of skin homeostasis in health and disease[J]. Horm Metab Res, 2007,39(2):110-124.
+- [42]邢潇匀,马蕾. PI3K/AKT信号通路在银屑病发病机制中的研究进展[J].国际医药卫生导报,2022,28(5):594-597.
+- [43] TORALES-CARDENA A, MARTINEZ-TORRES I, RODRIGUEZMARTINEZ S, et al. Cross talk between proliferative, angiogenic,and cellular mechanisms orchestred by HIF-1alpha in psoriasis[J]. Mediators Inflamm, 2015,2015:607363.
+- [44]张楠,田野,瞿幸.祛毒止痒汤治疗寻常型银屑病的临床价值研究[J].世界中医药, 2022,17(3):404-407.

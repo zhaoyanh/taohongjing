@@ -1,0 +1,24 @@
+中医祛湿法治疗寻常型银屑病的Meta分析（期刊）海南医学院学报2022(19)
+中医祛湿法治疗寻常型银屑病的Meta分析
+- 参考文献
+- 注释
+
+
+中医祛湿法治疗寻常型银屑病的Meta分析
+Meta-analysis of traditional Chinese medicine dampness-removing therapy in the treatment of psoriasis vulgaris
+- CHEN Wen-ting,
+- XIANG Cong-lian,
+- YAN Yu-hong,
+- LU Chuan-jian
+- Guangzhou University of Traditional Chinese Medicine,
+- Guangdong Provincial Hospital of Traditional Chinese Medicine,
+- State Key Laboratory of Dampness Syndrome of Chinese Medicine,
+- Key Laboratory of TCM Syndrome Clinical Research of Guangdong Province
+Abstract：Objective:To systematically evaluate the clinical effect and safety of dampness-removing therapy in the treatment of psoriasis vulgaris by Meta analysis. Methods:The clinical studies on the treatment of psoriasis with removing dampness therapy in CNKI,Wanfang,VIP,SinoMed,MEDLINE,Embase and Cochrane Library were searched from the establishment of the database to June 2021. After screening,data extraction and bias risk assessment,the retrieved literature was statistically analyzed by Revman5.3 software. Results:A total of 2 063 subjects were included in 24 clinical studies. The results of Meta analysis showed that the experimental group was superior to the control group in terms of total effective rate of treatment[OR=3.31,95%CI(2.55,4.31)],reducing PASI score[MD=-2.57,95%CI（-3.08,-2.06）]and improving quality of life[MD=-3.23,95%CI（-3.70,-2.76）]. The adverse reactions in the experimental group were slighter than those in the control group[OR=0.42,95%CI(0.29,0.61)]. Conclusion:The method of removing dampness in traditional Chinese medicine is safe and effective in the treatment of psoriasis vulgaris,but in view of the low overall quality of the included research,larger samples and higher quality clinical trials are still needed to obtain more sufficient evidence.
+
+Funding：supported by Provincial and ministerial co-construction of the State Key Laboratory of TCM Wet Syndrome(SZ2020ZZ15)
+
+Key words：Psoriasis vulgaris;Dampness-removing therapy;Randomized controlled trial;Meta-analysis
+
+Received：2021-04-08
+

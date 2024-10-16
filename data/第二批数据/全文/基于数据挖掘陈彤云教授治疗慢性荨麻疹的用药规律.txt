@@ -1,0 +1,71 @@
+基于数据挖掘陈彤云教授治疗慢性荨麻疹的用药规律（期刊）实用皮肤病学杂志2021(06)
+基于数据挖掘陈彤云教授治疗慢性荨麻疹的用药规律
+- 参考文献
+- 注释
+- [1]中华医学会皮肤性病学分会荨麻疹研究中心.中国荨麻疹诊疗指南(2018版)[J].中华皮肤科杂志,2019,52(1):1-5.
+- [2]张小敏,刘惠丹,曾文军,等.维生素D与慢性荨麻疹[J].实用皮肤病学杂志,2019,12(3):164-166.
+- [3]赵辨.临床皮肤病学[M].南京:江苏科学技术出版社,2001:742.
+- [4]Maurer M,Weller K,Bindslev-Jensen C,et al.Unmet clinical needs in chronic spontaneous urticaria.A GA2LEN task force report[J].Allergy,2011,66(3):317-330.
+- [5]陈曙光,王加锋.植物皮类中药现代文献研究[J].辽宁中医药大学学报,2019,21(4):196-199.
+- [6]邱明义,李小慧,石拓,等.麻黄连翘赤小豆汤血清对肥大细胞脱颗粒、组胺生成的影响[J].中药药理与临床,2003,23(5):3-4.
+- [7]肖珍妮,金路,谭张奎,等.麻黄连翘赤小豆汤对5-HT所致瘙痒模型大鼠与不同细胞系中5-HT1A及GRPR表达的影响[J].世界科学技术-中医药现代化,2020,22(10):3688-3695.
+- [8]耿利娜,薛征.玉屏风散临床运用及药理研究进展[J].山东中医杂志,2020,39(12):1369-1374.
+- [9]林志鹏,李锦濯,孙仁山.玉屏风散联合抗组胺药用于慢性荨麻疹疗效的系统评价[J].中国医院用药评价与分析,2020,20(4):456-462.
+- [10]张晓桐,魏芹,蔡琛,等.当归饮子抑制IL-33介导的肥大细胞脱颗粒缓解UL小鼠过敏反应的效应机制[J/OL].中华中医药学刊:1-9[2021-04-20].http://kns.cnki.net/kcms/detail/21.1546.r.20210402.1725.024.html.
+- [11]张启盈,曹毅.曹毅活用当归饮子治疗皮肤病经验举隅[J].中国乡村医药,2020,27(10):34-35.
+- [12]朱海燕,吴贤波,金贤国,等.酸味中药乌梅对肥大细胞脱颗粒及相关信号传导通路的影响[J].时珍国医国药,2015,26(9):2096-2098.
+- [13]曲剑华.中国现代百名中医临床家丛书--陈彤云[M].北京:中国中医药出版社,2013:105-107．
+- [14]陈佳骏,杨妞妞.白鲜皮及其活性成分抗炎止痒机制研究进展[J].江西中医药,2020,51(5):77-80.
+- [15]田月琴.海桐皮质量标准及药效学研究[D].太原:山西医科大学,2014.
+
+
+基于数据挖掘陈彤云教授治疗慢性荨麻疹的用药规律
+- 肖翔，
+- 曲剑华，
+- 周冬梅
+- 北京中医药大学，
+- 首都医科大学附属北京中医医院皮肤科
+摘要：目的 挖掘陈彤云教授治疗慢性荨麻疹的用药规律，为治疗慢性荨麻疹提供思路。方法 选取2018—2020年陈彤云教授治疗慢性荨麻疹的中药处方共100张，运用中医传承计算平台对药物进行分析，得到中药的频次分布、药物功效、归经、核心药物组成等。结果单味药以白鲜皮、海桐皮、乌梅等使用频率最高；药物功效以利水渗湿药、清热药、解表药为主；归经以肺、脾、肝为主。结论 陈彤云教授治疗慢性荨麻疹以疏风解表为主，兼顾扶正护脾、养血活血，同时注意驱邪而不伤正。
+
+基金：国家科技部重大研发课题（2018YFC1704100）
+
+关键词：荨麻疹,慢性;用药规律;陈彤云;数据分析
+
+作者简介：肖翔，硕士研究生，研究方向：皮肤中医外科学，E-mail:749172343@qq.com*周冬梅，E-mail:52176857@163.com
+
+收稿日期：2021-06-03
+
+Analysis of medication characteristics of professor Chen Tongyun based on 100 cases of chronic urticaria
+- XIAO Xiang,
+- QU Jian-hua,
+- ZHOU Dong-mei
+- Beijing University of Chinese Medicine
+Abstract：Objective To explore the medication rules of professor Chen Tongyun in the treatment of chronic urticaria and provide ideas for the treatment of chronic urticaria. Methods A total of 100 Chinese medicine prescriptions for the treatment of chronic urticaria by professor Chen Tongyun from 2018 to 2020 were selected, and the medicine was analyzed by using the traditional Chinese medicine inheritance computing platform, and the frequency distribution, medicine efficacy, meridian, and core medicine composition of Chinese medicine were obtained. Results The single-medicine used most frequently were densefruit pittany root-bark, coralbean bark, and smoked plum; the main drug effects were diuresis and diffusing dampness medicine, heat-clearing medicine, and relieving superficies medicine; the main meridians were lung, spleen and liver. Conclusion Professor Chen Tongyun's treatment of chronic urticaria mainly focuses on dispelling wind and relieving superficies, and taking into account the strengthening body resistance, protecting the spleen,nourishing blood and promoting blood circulation, meanwhile also paying attention to eliminating pathogen and not hurting the body.
+
+Key words：Urticaria,chronic;Medication rule;Chen Tongyun;Data analysis
+
+Received：2021-06-03
+
+荨麻疹是由于皮肤、黏膜小血管扩张及渗透性增加而出现的一种局限性水肿反应。慢性荨麻疹是指风团每天发作或间歇发作，持续时间>6周[1]，其平均病程约（1.4±2.7）年，少数患者可达10～20年[2]，我国约有15%～20%的人一生中至少发生过1次[3]。全球约有0.5%～1%的人患慢性荨麻疹[4]。慢性荨麻疹病因复杂，西医治疗往往难痊愈、易复发。陈彤云教授是首届全国名中医，燕京赵氏皮肤科流派的领军人及代表性传承人，从事中医皮肤外科临床工作70余年，逐步形成了自己以治疗损容性皮肤病为主的临床特色。在临床上，陈彤云教授遇到的多是反复就医难愈的患者，通过中药治疗可以有效改善患者皮损状态，减少复发次数及时间，提高生活质量。通过分析2018—2020年陈彤云教授治疗慢性荨麻疹共100张处方的用药特点，对其诊疗思维进行初步探讨。
+
+1 资料与方法
+1.1 研究资料
+1.1.1 处方来源
+全部处方均来自2018年1月—2020年12月在北京中医医院门诊，经陈彤云教授诊治的慢性荨麻疹患者处方共计100张，其中首诊患者处方66张，二诊患者处方26张，三诊患者处方8张。
+
+参考文献
+- [1]中华医学会皮肤性病学分会荨麻疹研究中心.中国荨麻疹诊疗指南(2018版)[J].中华皮肤科杂志,2019,52(1):1-5.
+- [2]张小敏,刘惠丹,曾文军,等.维生素D与慢性荨麻疹[J].实用皮肤病学杂志,2019,12(3):164-166.
+- [3]赵辨.临床皮肤病学[M].南京:江苏科学技术出版社,2001:742.
+- [4]Maurer M,Weller K,Bindslev-Jensen C,et al.Unmet clinical needs in chronic spontaneous urticaria.A GA2LEN task force report[J].Allergy,2011,66(3):317-330.
+- [5]陈曙光,王加锋.植物皮类中药现代文献研究[J].辽宁中医药大学学报,2019,21(4):196-199.
+- [6]邱明义,李小慧,石拓,等.麻黄连翘赤小豆汤血清对肥大细胞脱颗粒、组胺生成的影响[J].中药药理与临床,2003,23(5):3-4.
+- [7]肖珍妮,金路,谭张奎,等.麻黄连翘赤小豆汤对5-HT所致瘙痒模型大鼠与不同细胞系中5-HT1A及GRPR表达的影响[J].世界科学技术-中医药现代化,2020,22(10):3688-3695.
+- [8]耿利娜,薛征.玉屏风散临床运用及药理研究进展[J].山东中医杂志,2020,39(12):1369-1374.
+- [9]林志鹏,李锦濯,孙仁山.玉屏风散联合抗组胺药用于慢性荨麻疹疗效的系统评价[J].中国医院用药评价与分析,2020,20(4):456-462.
+- [10]张晓桐,魏芹,蔡琛,等.当归饮子抑制IL-33介导的肥大细胞脱颗粒缓解UL小鼠过敏反应的效应机制[J/OL].中华中医药学刊:1-9[2021-04-20].http://kns.cnki.net/kcms/detail/21.1546.r.20210402.1725.024.html.
+- [11]张启盈,曹毅.曹毅活用当归饮子治疗皮肤病经验举隅[J].中国乡村医药,2020,27(10):34-35.
+- [12]朱海燕,吴贤波,金贤国,等.酸味中药乌梅对肥大细胞脱颗粒及相关信号传导通路的影响[J].时珍国医国药,2015,26(9):2096-2098.
+- [13]曲剑华.中国现代百名中医临床家丛书--陈彤云[M].北京:中国中医药出版社,2013:105-107．
+- [14]陈佳骏,杨妞妞.白鲜皮及其活性成分抗炎止痒机制研究进展[J].江西中医药,2020,51(5):77-80.
+- [15]田月琴.海桐皮质量标准及药效学研究[D].太原:山西医科大学,2014.

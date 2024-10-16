@@ -1,0 +1,97 @@
+基于数据挖掘的中医治疗银屑病临床用药规律研究（期刊）医学信息2021(01)
+基于数据挖掘的中医治疗银屑病临床用药规律研究
+- 1 资料与方法1.1 数据来源1.2 方法1.3 数据分析
+- 1.1 数据来源
+- 1.2 方法
+- 1.3 数据分析
+- 2 结果2.1 单味药频次分析2.2 药物功效类别及频次分析2.3 药物药性及频次分析2.4 药物关联规则分析
+- 2.1 单味药频次分析
+- 2.2 药物功效类别及频次分析
+- 2.3 药物药性及频次分析
+- 2.4 药物关联规则分析
+- 3 讨论
+- 参考文献
+- 参考文献
+- 注释
+- [1]李婉溶,杨志波.杨志波教授论治寻常型银屑病经验[J].湖南中医药大学学报,2019,39(12):1456-1458.
+- [2]闫玉红,郭洁,卢传坚.精准医学背景下的银屑病中医药研究思路探讨[J].世界中西医结合杂志,2018,13(3):432-435.
+- [3]余彪,刘守全.基于FP-growth算法的改进关联规则挖掘算法[J].计算机与网络,2017,43(14):68-71.
+- [4]李靖.中药治疗寻常型银屑病的研究综述[J].内蒙古中医药,2020,39(3):159-160.
+- [5]谈依菱.基于数据挖掘研究当代名老中医治疗银屑病方药证治规律[D].广州中医药大学,2017.
+- [6]郭昕炜,李冠汝,孙丽蕴.寻常型银屑病中药外治用药性味归经特点分析[J].中国中西医结合皮肤性病学杂志,2017,16(6):553-556.
+- [7]罗林根.含漱土茯苓荆芥防风汤治疗风热证银屑病患者的疗效观察[D].湖南中医药大学,2019.
+
+
+基于数据挖掘的中医治疗银屑病临床用药规律研究
+- 李小智，
+- 丁长松，
+- 黄辛迪
+- 湖南中医药大学信息科学与工程学院
+摘要：目的 采用数据挖掘技术探究中医治疗银屑病的用药特点与规律，旨在为临床用药提供参考依据。方法 收集我校第二附属医院皮肤科2017年12月～2019年12月的门诊系统记录，筛选符合要求的中药组方数据，构建银屑病方剂数据库，对银屑病方剂中的药物频次、功效及性味归经分布进行统计，运用MFP-tree算法进行关联规则分析。结果 共收集664首方剂，涉及中药133味，涉及26种常用中药，可分为8类；使用频次排列前10位的药物分别是茯苓、甘草、土茯苓、黄芩、赤芍、白花蛇舌草、山药、金银花、白鲜皮、防风；使用频次排列前4位的中药类别为清热药、解表药、补虚药、利水渗湿药；药物的性味中苦味、甘味、寒味较多；多集中在肝经、心经、肺经，其次是脾经、胃经；共得到药对关联规则22条，3味药组关联规则20条，其中置信度前3位的药对分别为荆芥→防风、防风→黄芩、荆芥→黄芩，置信度前3位的3味药组分别为黄芩+白花蛇舌草→茯苓、甘草+黄芩→茯苓、防风+荆芥→黄芩。结论 中医治疗银屑病以清热解毒、活血凉血为主，药物多归肝经、心经、肺经，符合中医药治疗银屑病的理论基础。基于数据挖掘技术分析银屑病组方用药规律，可为临床辨治银屑病提供参考。
+
+基金：国家重点研发计划（编号：2017YFC1703306）;湖南省自然科学基金（编号：2018JJ2301）;湖南中医药大学计算机科学与技术学科开放基金（编号：2018JK03）
+
+关键词：银屑病;数据挖掘;MFP-tree算法;关联规则;用药规律
+
+作者简介：李小智（1977.11-），男，湖南东安县人，硕士，讲师，主要从事软件工程、中医药信息化研究
+
+收稿日期：2020-11-12
+
+Research on the Law of Clinical Use of Traditional Chinese Medicine for Psoriasis Based on Data Mining
+- LI Xiao-zhi,
+- DING Chang-song,
+- HUANG Xin-di
+- School of Information Science and Engineering,Hunan University of Chinese Medicine
+Abstract：Objective To observe the characteristics and rules of TCM treatment of psoriasis so as to provide references for clinical medication.Methods Collect the records of the outpatient system of the Dermatology Department of the Second Affiliated Hospital of our school from December2017 to December 2019, screen out the data of Chinese medicine prescriptions that meet the requirements, and build a database of psoriasis prescriptions.The frequency, efficacy and distribution of the meridian distribution of the drugs in the prescriptions for psoriasis were counted, and the association rules were analyzed using the MFP-tree algorithm.Results A total of 664 prescriptions were selected and analyzed, including 133 different herbs with 26 of them more commonly used under 8 groups of efficacies. The top 10 herbs of frequencies were Poria, Licorice,RhizomaSmilacisGlabrae, Radix Scutellariae, Radix PaeoniaeRubra, HedyotidisDiffusae, RhizomaDioscoreae, FlosLonicerae, Cortex Dictamni, and Radix Saposhnikoviae. The top 4 main efficacies used were for heat-clearing, relieving exterior, replenishment of deficiency, and clearing damp and promoting diuresis. The natures and flavors of herbs were mostly bitter, sweet, and cold mostly concentrated in liver, heart, and lung meridians,followed by the spleen and stomach meridians. The association rule analysis showed a total of 22 rules of two-herb combinations and 20 rules of trigeminy combinations. The top two-herb combinations were HerbaSchizonepetae →Radix Saposhnikoviae, Radix Saposhnikoviae → Radix Scutellariae, HerbaSchizonepetae →Radix Scutellariae. The top trigeminy medications were Radix Scutellariae+Hedyotidis Diffusae →Poria, licorice+Radix Scutellariae→Poria, Radix Saposhnikoviae+Herba Schizonepetae→Radix Scutellariae.Conclusion TCM treatment of psoriasis mainly focuses on clearing heat and detoxification, promoting blood circulation and cooling the blood. The herbs mostly belong to the liver meridian, heart meridian and lung meridian consistent with the theoretical treatment of psoriasis. The rules of medication analyzed by data mining technology have great value for reference in clinical medication in treatment of psoriasis.
+
+Key words：Psoriasis;Data mining;MFP-tree algorithm;Association rules;Medication rule
+
+Received：2020-11-12
+
+银屑病（psoriasis）是一种遗传与环境共同作用诱发的免疫介导的慢性、复发性、炎症性、系统性疾病，典型临床表现为患者皮肤出现片状红斑或斑块，上覆白色、灰白色鳞屑，易于刮除，刮除后常见点状出血，中医称之为“白疕”“松皮癣”“干癣”等[1]。银屑病病情顽固且易复发，给患者生活带来极大不便，严重影响患者的身心健康。2014年该病被WHO定为“严重的非传染性慢性疾病”。近年来，其发病率有逐年增高的趋势，据WHO统计，银屑病患病率在0.09%～11.43%。虽然国内外学者对银屑病的病因和发病机制进行了大量研究，但至今尚无根治办法[2]。中医治疗银屑病具有很大的优势和特色，本研究对湖南某中医院近两年皮肤科门诊部的银屑病临床数据进行整理，分析药物频次、功效及性味归经特点，应用MFP-tree关联规则算法[3]进行挖掘，探寻中医治疗银屑病的用药规律，旨在为中医治疗银屑病提供用药参考。
+
+1 资料与方法
+1.1 数据来源
+收集湖南中医药大学第二附属医院皮肤科门诊部2017年12月～2019年12年的银屑病医案。纳入标准：(1)临床诊断为银屑病的患者数据；(2)不同患者开具相同处方视为有效数据；(3)同一患者复诊所开不同处方视为有效数据。排除标准：(1)中医临床诊断为非银屑病皮肤病医案；(2)使用中成药、西药、外用药及物理疗法的患者。最终收集中药方剂664首。
+
+1.2 方法
+将门诊系统数据导出，每味中药有唯一的处方ID，根据处方ID可以确定每一首中药处方的组成。所有数据来自同一门诊系统，中药名称命名统一规范，没有同一种中药名称不一致的情况。经过处理，将遴选的医案处方通过Excel构建银屑病数据库。
+
+1.3 数据分析
+利用IBM SPSS Statistics 20.0对处方的药物频次、方剂占比及性味归经进行分析，挖掘方剂组成中药的构成情况，并根据频数按照从高到低降序排序；采用关联规则分析中的MFP-tree算法挖掘处方高频药物药对之间的配伍规律，总结中医治疗银屑病常用的药对和药组。
+
+2 结果
+2.1 单味药频次分析
+664首方药共涉及133味中药，累计频次10592次，平均频次80次，其中使用频次大于80次的中药有26味，使用频次共计9461次；使用频次小于80次的中药有107味，使用频次共计1131次；使用频次大于80次的药物频次统计见表1，其中使用频次排列在前10的药物分别为茯苓、甘草、土茯苓、黄芩、赤芍、白花蛇舌草、山药、金银花、白鲜皮、防风，使用频次共计5574次。
+
+表1 使用频次大于80次的药物（n,%)
+表2 使用频次大于80次的中药功效分类情况(n,%)
+2.2 药物功效类别及频次分析
+对频次大于80次的26味中药进行分类归纳，共涉及8类中药，使用频次前4位的中药类别为清热药、解表药、补虚药、利水渗湿药，见表2。
+
+2.3 药物药性及频次分析
+依据全国中医药行业高等教育“十三五”规划教材《中药学》（新世纪第四版）对频次大于80次的26味中药的性味归经手动录入并统计分析。若一味中药有多个药性、药味、归经则全部统计在内，将药性“微寒、微温”分别归入“寒、温”中合并统计，药味“微苦、微甘、微辛”分别归入“苦、甘、辛”中合并统计。结果出现26次药性、33次药味、71次归经。在药性统计中，寒15次、平8次、温3次，无热性药物；在药味统计中，甘、苦出现次数相对其他高出很多，分别为14次和13次；归经分析中，肝经、心经、肺经出现较多，分别为14次、10次、8次，见图1～图3。
+
+2.4 药物关联规则分析
+运用MFP-tree算法对高频药物进行关联规则分析，设置支持度≥30%，置信度≥80%，通过关联分析得到中医治疗银屑病的常见药对和药组，见表3、表4。
+
+图1 26味中药药性统计
+图2 26味中药药味统计
+图3 26味中药归经统计
+表3 银屑病药物二项关联规则
+表4 银屑病药物三项关联规则
+3 讨论
+银屑病一般以风邪为主，以毒、湿、寒等诱因引起[4]。治疗银屑病的药物多具有清热解毒、利水渗湿、活血祛瘀等功效，如高频药物中土茯苓、白花蛇舌草、金银花为清热解毒药，赤芍、生地黄为清热凉血药，黄芩、白鲜皮、苦参为清热燥湿药。在药物的性味分析中苦味、甘味、寒味较多，苦寒清热，甘则补虚。在归经分析中，药物多集中在肝经、心经、肺经，其次是脾经、胃经。药物多归肝经，因归肝经的药物既可以调畅气机，又可养血润燥，脏腑气机调达则瘀血自除，故归肝经的药物用之最多，如土茯苓、生地黄、赤芍。选用归心经的药物，因心主血脉，血行得畅，则瘀不能生，同时，心主神明，邪热炽盛必扰心神[5]，银屑病患者可伴有瘙痒、心烦、失眠等症，药物作用于心经，不但能提高疗效，也能针对症状，改善患者生活质量，如苦参、丹参。选用归肺经的药物，因银屑病导致皮肤屏障功能减退，肺主皮毛，使用归肺经的中药可调节皮肤的功能，故重用归肺经药物，如黄芩、金银花。其次，选用归脾胃经的药物，脾胃为后天之本，气血生化之源[6]，因银屑病治疗时用药多为寒凉之品，苦泄辛散，长期服药致寒凉败伤，伤及脾胃，方中常加茯苓、甘草、山药，补脾养胃，故使用频率很高。
+
+关联规则分析结果显示，常用药对有“荆芥→防风”“防风→黄芩”“荆芥→黄芩”“土茯苓→茯苓”“茯苓→甘草”。荆芥、防风清热解毒、疏风止痒，荆芥、防风有“痒自风来，止痒必先疏风”之意[7]；防风和黄芩配伍，黄芩清里热，防风疏外风，二者配伍，清热燥湿，疏风散热；荆芥与黄芩配伍，荆芥解表寒，黄芩清里热，一解一清，清解合法，解表清热效果甚佳；土茯苓和茯苓配伍，土茯苓清热解毒，茯苓利水渗湿、健脾安神，土茯苓性寒，茯苓性平，二者配伍，解毒健脾，茯苓可缓解土茯苓苦寒伤阳；茯苓和甘草配伍，茯苓健脾利湿，甘草补气缓中兼能调和诸药，二者合用，能起到保脾护胃的作用；常用药组有“防风+荆芥→黄芩”“土茯苓+白花蛇舌草→茯苓”“土茯苓+赤芍→茯苓”，分别多用于风热证、血燥证、血热证银屑病的治疗，体现了中医辩证分型、辩证用药的诊疗特点。
+
+综上所述，本研究发现，中医治疗银屑病以清热解毒、活血凉血为主，药物多归肝经、心经、肺经，符合中医药治疗银屑病的理论基础。基于数据挖掘技术分析银屑病组方用药规律，可为临床辨治银屑病提供参考。
+
+参考文献
+- [1]李婉溶,杨志波.杨志波教授论治寻常型银屑病经验[J].湖南中医药大学学报,2019,39(12):1456-1458.
+- [2]闫玉红,郭洁,卢传坚.精准医学背景下的银屑病中医药研究思路探讨[J].世界中西医结合杂志,2018,13(3):432-435.
+- [3]余彪,刘守全.基于FP-growth算法的改进关联规则挖掘算法[J].计算机与网络,2017,43(14):68-71.
+- [4]李靖.中药治疗寻常型银屑病的研究综述[J].内蒙古中医药,2020,39(3):159-160.
+- [5]谈依菱.基于数据挖掘研究当代名老中医治疗银屑病方药证治规律[D].广州中医药大学,2017.
+- [6]郭昕炜,李冠汝,孙丽蕴.寻常型银屑病中药外治用药性味归经特点分析[J].中国中西医结合皮肤性病学杂志,2017,16(6):553-556.
+- [7]罗林根.含漱土茯苓荆芥防风汤治疗风热证银屑病患者的疗效观察[D].湖南中医药大学,2019.
