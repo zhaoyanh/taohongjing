@@ -22,8 +22,11 @@
 模型名称 	lora权重 	合并后的权重
 
 🆕Taohongjing-7B 	🤖modelscope / 🤗huggingface 	🤖modelscope /✡️WiseModel/ 🤗huggingface
+
 Taohongjing-1.8B 	🤖modelscope / 🤗huggingface 	🤖modelscope / 🤗huggingface
+
 Taohongjing-20B-Chat 	🤖modelscope / 🤗huggingface 	🤖modelscope / 🤗huggingface
+
 
 📚 数据详情
 
@@ -36,10 +39,15 @@ CMB-Exam
 Taohongjing-7B在CMB-Exam中具体表现如下：
 
 注：图中模型分数均取自CMB榜单数据，具体分数统计于data/cmb_compare.xlsx，详见：CMB-Leaderboard
+
 考试表现
+
 模型名称 	考试名称 	题目数量 	准确率
+
 Sunsimiao-7B 	中国国家执业医师资格考试 	3000 	79.23%
+
 Sunsimiao-7B 	中国国家执业药师资格考试 	2400 	71.33%
+
 Sunsimiao-7B 	中国国家执业护士资格考试 	1200 	83.83%
 
 
