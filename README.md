@@ -1,6 +1,6 @@
 # 陶弘景中医药大模型
 陶弘景中医药大模型，包括命名实体识别，关系抽取，知识图谱构建，大模型增量微调，RAG
-孙思邈中文医疗大模型
+
 
 👋 联系我们: 644735344@qq.com
 
@@ -8,29 +8,27 @@
 
 🔥更好的模型永远在路上!🔥
 
-    Sept 12,2024： 上传Taohongjing-7B至github,以供下载
-
-   Jul 6, 2023： 首次提交孙思邈（Sunsimiao）中文医疗大模型
+    Oct. 16,2024： 上传Taohongjing-7B至github,以供下载
 
 🌈 模型介绍
 
-孙思邈, 唐代医药学家、道士, 被后人尊称为"药王". 其十分重视民间的医疗经验, 不断积累走访, 及时记录下来, 写下著作《千金要方》. 唐朝建立后, 孙思邈接受朝廷的邀请, 与政府合作开展医学活动, 完成了世界上第一部国家药典《唐新本草》.
+陶弘景（456年—536年），字通明，自号华阳隐居，谥贞白先生，丹阳秣陵（今江苏省南京市）人。南朝齐、梁时道教学者、炼丹家、医药学家。著有《神农本草经集注》。
 
-孙思邈中文医疗大模型(简称: Sunsimiao)希望能够遵循孙思邈的生平轨迹, 重视民间医疗经验, 不断累积中文医疗数据, 并将数据附加给模型, 致力于提供安全、可靠、普惠的中文医疗大模型.
+陶弘景中医药大模型(简称: Taohongjing)希望能够遵循陶弘景的生平轨迹, 重视民间医疗经验, 完善中药基源、分类、应用知识体系。不断累积中文医疗数据, 并将数据附加给模型, 致力于提供安全、可靠、普惠的中文医药大模型.
 
-🚩 Sunsimiao-7B模型由Qwen2-7B模型与高质量医疗数据微调而得，在CMB-Exam中达到30B量级模型SOTA！ 同时在中国国家执业医师、药师、护士资格考试中均取得优异成绩。
+🚩 Taohongjing-7B模型由Internlm2_5-chat-7B模型与高质量医药数据增量微调而得，在CMB-Exam中达到30B量级模型SOTA！ 同时在中国国家执业医师、药师、护士资格考试中均取得优异成绩。
 📅 模型列表
 模型名称 	lora权重 	合并后的权重
-🆕Sunsimiao-7B 	🤖modelscope / 🤗huggingface 	🤖modelscope /✡️WiseModel/ 🤗huggingface
-Sunsimiao-01M 	🤖modelscope / 🤗huggingface 	🤖modelscope / 🤗huggingface
-Sunsimiao-01M-Chat 	🤖modelscope / 🤗huggingface 	🤖modelscope / 🤗huggingface
-Sunsimiao-01M-6B 	🤖modelscope / 🤗huggingface 	🤖modelscope / 🤗huggingface
+🆕Taohongjing-7B 	🤖modelscope / 🤗huggingface 	🤖modelscope /✡️WiseModel/ 🤗huggingface
+Taohongjing-1.8B 	🤖modelscope / 🤗huggingface 	🤖modelscope / 🤗huggingface
+Taohongjing-20B-Chat 	🤖modelscope / 🤗huggingface 	🤖modelscope / 🤗huggingface
+
 📚 数据详情
 
-Sunsimiao的各个版本训练数据均取自我们精心构建的医疗数据池，该数据池融合各类医疗文献及教材、多科室诊断数据、海量医疗问诊对话、医学知识问答、病历分析等，基于开源数据和GPT4自动构建，经人工清洗标注、自动化数据分析处理所得。
+Taohongjing的各个版本训练数据均取自我们精心构建的文摘数据池，该数据池融合各类医药卫生文献及教材、多科室诊断数据、海量医疗问诊对话、医学知识问答、病历分析等，基于开源数据和GPT4自动构建，经人工清洗标注、自动化数据分析处理所得。
 
 该数据池仍在持续更新中！ 部分数据样例参考：data/example_single.json data/example_multi.json
-🎓 模型评估
+🎓 模型评估（暂未进行）
 CMB-Exam
 
 Sunsimiao-7B在CMB-Exam中具体表现如下：
@@ -46,7 +44,7 @@ Sunsimiao-7B 	中国国家执业护士资格考试 	1200 	83.83%
 from modelscope.pipelines import pipeline
 from modelscope.utils.constant import Tasks
 
-pipe = pipeline(task=Tasks.text_generation, model='AI-ModelScope/Sunsimiao', model_revision='v1.0.0')
+pipe = pipeline(task=Tasks.text_generation, model='AI-ModelScope/Taohongjing', model_revision='v1.0.0')
 
 query = '小孩发烧了怎么办？'
 
@@ -61,10 +59,10 @@ print(result)
 更多使用方法见scripts
 致谢
 
-本项目由华东理工大学 信息科学与工程学院 薛栋副教授发起, 并受到以下项目及平台的大力支持, 在此表示感谢!
+本项目由辽宁中医药大学副馆长赵彦辉发起,药学院22级栽培与鉴定专业刘子辰具体实施 并受到以下项目及平台的大力支持, 在此表示感谢!
 
     LLaMA-Efficient-Tuning: 提供微调代码
-    OpenI启智社区: 提供模型训练算力
+    OpenAI启智社区: 提供模型训练算力
     魔搭ModelScope、OpenXLab、Huggingface：模型存储和体验空间;
     文心一格: 生成模型logo
 
