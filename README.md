@@ -17,6 +17,7 @@
 陶弘景中医药大模型(简称: Taohongjing)希望能够遵循陶弘景的生平轨迹, 重视民间医疗经验, 完善中药基源、分类、应用知识体系。不断累积中文医疗数据, 并将数据附加给模型, 致力于提供安全、可靠、普惠的中文医药大模型.
 
 🚩 Taohongjing-7B模型由Internlm2_5-chat-7B模型与高质量医药数据增量微调而得，在CMB-Exam中达到30B量级模型SOTA！ 同时在中国国家执业医师、药师、护士资格考试中均取得优异成绩。
+
 📅 模型列表
 模型名称 	lora权重 	合并后的权重
 🆕Taohongjing-7B 	🤖modelscope / 🤗huggingface 	🤖modelscope /✡️WiseModel/ 🤗huggingface
@@ -31,7 +32,7 @@ Taohongjing的各个版本训练数据均取自我们精心构建的文摘数据
 🎓 模型评估（暂未进行）
 CMB-Exam
 
-Sunsimiao-7B在CMB-Exam中具体表现如下：
+Taohongjing-7B在CMB-Exam中具体表现如下：
 
 注：图中模型分数均取自CMB榜单数据，具体分数统计于data/cmb_compare.xlsx，详见：CMB-Leaderboard
 考试表现
@@ -39,6 +40,8 @@ Sunsimiao-7B在CMB-Exam中具体表现如下：
 Sunsimiao-7B 	中国国家执业医师资格考试 	3000 	79.23%
 Sunsimiao-7B 	中国国家执业药师资格考试 	2400 	71.33%
 Sunsimiao-7B 	中国国家执业护士资格考试 	1200 	83.83%
+
+
 🔓 使用方法
 
 from modelscope.pipelines import pipeline
