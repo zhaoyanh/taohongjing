@@ -20,6 +20,7 @@
 
 📅 模型列表
 模型名称 	lora权重 	合并后的权重
+
 🆕Taohongjing-7B 	🤖modelscope / 🤗huggingface 	🤖modelscope /✡️WiseModel/ 🤗huggingface
 Taohongjing-1.8B 	🤖modelscope / 🤗huggingface 	🤖modelscope / 🤗huggingface
 Taohongjing-20B-Chat 	🤖modelscope / 🤗huggingface 	🤖modelscope / 🤗huggingface
