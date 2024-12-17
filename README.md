@@ -21,29 +21,102 @@
   浦语社区: InternStudio开发机 
   🔥更好的模型永远在路上!🔥
   
-    Dec. 15,2024: 上传 微调 及 模型开发相关代码。
-    Oct. 16,2024：上传 Data Processing
+   * Dec. 15,2024: 上传 微调 及 模型开发相关代码。
+   * Oct. 16,2024：上传 Data Processing
  
 📚 数据详情 detail
-### 
+### pretrain_data
+详见 master/dataset 
 ### 多模态数据
 * Data preparation
 * 经过寻找皮肤病图片，我们在和鲸社区，获取了一份猴痘皮肤图像数据集，数据库包含五种不同疾病类别的皮肤病变/皮疹图像：(1) 猴痘、(2) 水痘、(3) 天花、(4) 牛痘、 (5) 麻疹，此外还包含 (6) 健康皮肤图像.（原数据集作者还使用各种增强技术将数据量增加了 49 倍）。对书生浦语InternVL2-2B多模态大模型进行了微调尝试。
 json 文件的格式 （我们构建了如下conversations对，用于与模型的训练。）
-
+![Alt Text](assets/img/图片2.png)
     
 📅 模型列表
-模型名称 	lora权重 	合并后的权重
-
-🆕
+模型名称   	                模型类型                  Base-Model               XTuner微调 
+🆕HongjingBot-VL            图文理解                InternVL2-2B               qlora_finetune
+🆕HongjingBot-chat          对话                    InternLM2.5-7B-chat        qlora_alpaca_e3  full_custom_pretrain_e1
 🌈 模型介绍
 🎓 模型评估（暂未进行）(未找到好的基准)
 👋 联系我们: 644735344@qq.com
 # 快速微调与部属
 ### 🔓 使用方法
+🆕HongjingBot-chat  
+
+```python
+lmdeploy serve api_server \
+    /root/InternLM/XTuner/merged01 \
+    --model-format hf \
+    --quant-policy 0 \
+    --server-name 0.0.0.0 \
+    --server-port 23333 \
+    --tp 1
+```
+Gradio     lmdeploy 部署自带前端
+```python
+lmdeploy serve gradio http://localhost:23333 \
+    --server-name 0.0.0.0 \
+    --server-port 6006
+```
+SuWen     基于MindSearch的RAG系统实现
+```
+python -m mindsearch.app --lang cn --model_format internlm_server --search_engine DuckDuckGoSearch
+```
+```
+streamlit run frontend/suwen_streamlit.py
+```
+##### 量化部署
+* 在线 kv cache int4/int8 量化
+```
+lmdeploy serve api_server \
+    /root/models/merged01 \
+    --model-format hf \
+    --quant-policy 4 \
+    --cache-max-entry-count 0.4\
+    --server-name 0.0.0.0 \
+    --server-port 23333 \
+    --tp 1
+```
+* W4A16 模型量化和部署
+```
+lmdeploy serve api_server \
+    /root/models/merged01 \
+    --model-format hf \
+    --quant-policy 4 \
+    --cache-max-entry-count 0.4\
+    --server-name 0.0.0.0 \
+    --server-port 23333 \
+    --tp 1
+```
+* W4A16 量化+ KV cache+KV cache 量化
+```
+lmdeploy serve api_server \
+    /root/models/merged01-w4a16-4bit/ \
+    --model-format awq \
+    --quant-policy 4 \
+    --cache-max-entry-count 0.4\
+    --server-name 0.0.0.0 \
+    --server-port 23333 \
+    --tp 1
+```
+
+🆕HongjingBot-VL
+启动test1
+```python
+conda activate lmdeploy
+python test1.py
+```
+
+## 📝 License
+
+This project is released under the [Apache 2.0 license](LICENSE).
+
 # 项目荣誉
 # 项目star
 # 项目成员
+🚩陆续招募ing
 # 鸣谢
+![Alt Text](assets/img/鸣谢—微信图片_20241217130434.png)
 🤗✡️🤖
 
