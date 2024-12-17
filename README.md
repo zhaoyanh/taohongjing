@@ -35,14 +35,10 @@ json 文件的格式 （我们构建了如下conversations对，用于与模型�
 ![Alt Text](assets/img/图片2.png)
 # 📅 模型列表
 
-| 模型名称             | 模型类型       | Base-Model            | XTuner微调                |
-|--------------------|--------------|----------------------|-------------------------|
+| 模型名称             | 模型类型         | Base-Model            | XTuner微调                |
+|--------------------|-----------------|----------------------|-------------------------|
 | 🆕HongjingBot-VL     | 图文理解       | InternVL2-2B           | qlora_finetune           |
 | 🆕HongjingBot-chat   | 对话         | InternLM2.5-7B-chat    | qlora_alpaca_e3 full_custom_pretrain_e1 |    
-📅 模型列表
-模型名称   	                模型类型                  Base-Model               XTuner微调 
-🆕HongjingBot-VL            图文理解                InternVL2-2B               qlora_finetune
-🆕HongjingBot-chat          对话                    InternLM2.5-7B-chat        qlora_alpaca_e3  full_custom_pretrain_e1
 
 🌈 模型介绍<br>
 🎓 模型评估（暂未进行）(未找到好的基准)<br>
