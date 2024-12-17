@@ -20,8 +20,10 @@
   XTuner  : 指令微调 、 增量预训练
   浦语社区: InternStudio开发机 
   🔥更好的模型永远在路上!🔥
-
+  
+    Dec. 15,2024: 上传 微调 及 模型开发相关代码。
     Oct. 16,2024：上传 Data Processing
+ 
 📚 数据详情 detail
 ### 
 ### 多模态数据
